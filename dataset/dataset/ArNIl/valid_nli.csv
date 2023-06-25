@@ -1,0 +1,595 @@
+t,h,label,relatedness_score,sentence_h_en,sentence_t_en
+الفتاة باللون الأزرق يقفز في الهواء,فتاة صغيرة  ترتدي قميصا أزرق يقفز في الهواء,1,4.3,A young girl in a blue leotard is jumping in the air,The young girl in blue is jumping in the air
+الشخص لا يطير في الهواء على دراجة,شخص على دراجة يقفز في الهواء والشمس تندلع من خلال هيكل الدراجة,0,3.6,A person on a bike is jumping through the air and the sun is flaring through the bike frame,The person is not flying through the air on a bicycle
+الأسد يسير بخطى متعبة في القلم,أسد يسير بخطى متعبة في قلم,2,4.0,One man is turning on the microwave,One man is turning off the microwave
+كلب كبير أبيض وأسود يحمل عصا وهو يسبح,كلب صغير أبيض وأسود يحمل عصا وهو يسبح,0,4.0,A small black and white dog is carrying a stick and is swimming,A big black and white dog is carrying a stick and is swimming
+امرأة قطعت الأخطبوط,المرأة قطع  الأخطبوط المطبوخة,1,4.2,The woman is cutting cooked octopus,A woman is cutting an octopus
+رجل يغني ويسير على الرصيف,رجل يغني ويسير في الطريق,0,4.1,A man is singing and walking down the road,A man is singing and walking down the sidewalk
+لا أحد أمام المبنى الملونة,أشخاص يسيرون خارج مبنى يحتوي على العديد من الجداريات ,0,3.6,People are walking outside a building that has many murals on it,Nobody is in front of the colorful building
+فتاة شقراء ترقص أمام معدات الصوت,فتاة ترتدي ملابس بيضاء و ترقص,0,3.5,A girl is wearing white clothes and is dancing,The blond girl is dancing in front of the sound equipment
+امرأة تخيط بآلة,امرأة تفك الخياطة بآلة,2,3.4,A man is sprinkling seasoning on several sliced and buttered loaves of bread,There is no man sprinkling seasoning on several sliced and buttered loaves of bread
+امرأة تقطع الأعشاب,الرجل يقطع الخبز,0,2.4,The man is slicing bread,A woman is slicing herbs
+هناك رجل يلعب كرة القدم بمرح ,هناك رجل يلعب كرة القدم بمرح ,1,4.9,A guy is cheerfully playing with the footbag,A guy is cheerfully playing with a footbag
+الرجل لم يدفع الفواتير,شخص يقلي اللحوم في مقلاة,0,1.3,A person is frying meat in a pan,A person is not holding a skunk
+يلعب طفل صغير كرة القدم ويقع في العشب,ليس هناكطفل يلعب كرة القدم ويقع على العشب,2,4.1,There is no little kid playing football and falling into the grass,The little kid is playing football and falling into the grass
+كلب رمادي يرتد كرة قدم على رأسه في العشب,كلب رمادي يرتد كرة قدم على رأسه في ملعب عشبي,1,4.6,A grey dog is bouncing a soccer ball on its head in a grass field,A grey dog is bouncing a soccer ball on its head on a lawn
+يتم وضع أسياخ على رف من قبل امرأة,امرأة وضع أسياخ على الرف,1,4.9,A woman is placing skewers onto a rack,Skewers are being placed onto a rack by a woman
+لا يوجد  فتاة تقفز إلى السيارة,هناك فتاة  تقفز على سيارة بتهور,0,3.6,The girl is recklessly jumping onto a car,There is no girl jumping into the car
+امرأة ترتدي ثوبًا أبيض وامرأة ترتدي ثوبًا أزرق تقفان على خشبة المسرح,سيدتان عجوزتان ترتديان فساتين بالية في المنزل,0,2.6,Two old ladies are wearing worn dresses at home,A woman in a white dress and a woman in a blue dress are standing on a stage
+قطتان على العشب تلعبان بلعبة بلاستيكية,هناك كلبان يجريان ويحاولان الإمساك بكرة القدم,0,2.2,Two dogs are running and trying to catch a soccer ball,Two cats on a lawn are playing with a plastic toy
+يعزف طفل على الغيتار,لا يوجد طفل يعزف على الغيتار,2,3.1,There is no kid playing guitar,A kid is playing guitar
+امرأة واحدة  تقشر  البطاطا,ويجري تقشير البطاطا من قبل امرأة,1,4.8,The potato is being peeled by a woman,One woman is peeling a potato
+مرأة ترقص,لا يوجد  امرأة ترقص في قفص,0,3.4,There is no woman dancing in a cage,The woman is dancing
+لا يوجد قط ينزلق رأسًا على عقب تحت الأريكة,قطة تزحف تحت قطعة أثاث,0,3.1,A cat is crawling under a piece of furniture,There is no cat sliding upside down under a couch
+أربعة كلاب لا تلعب في منطقة عشبية,أربعة كلاب تلعب في منطقة عشبية,2,2.9,Four dogs are playing in a grassy area,Four dogs are not playing in a grassy area
+رجل يبكي,وليس هناك رجل يصرخ,0,2.1,There is no man screaming,A man is crying
+امرأة تقلي شيء,ليس هناك امرأة تقلي شيء,2,3.6,There is no woman frying something,A woman is frying something
+رجل لا تعزف على الفلوت ,رجل يعزف على الفلوت,2,4.2,A man is playing a flute,A man is not playing a flute
+امرأةتقطع البطاطا إلى شرائح ,لم تقطع المرأة البطاطا,2,3.9,There is no woman slicing a potato,A woman is slicing a potato
+فتاة سوداء بلا بيكيني ترتدي قبعة على الشاطئ,فتاة ترتدي قبعة سوداء ترتدي البيكيني على الشاطئ,0,2.7,A girl in a black hat is wearing a bikini at the beach,A black girl with no bikini is wearing a hat at the beach
+رجل يغني ويعزف على الغيتار,ليس عناك رجل يغني ويعزف على الغيتار,2,3.5,There is no man singing and playing a guitar,A man is singing and playing a guitar
+مجموعة من لاعبي كرة القدم يجرون في الملعب,الجمهور يشاهد مباراة كرة قدم,0,2.7,The crowd is not watching a football game,A group of football players is running in the field
+ثلاثة رجال يمارسون الكاراتيه في حقل,ثلاثة أولاد في ازياء الكاراتيه لا يقاتلون,0,2.4,Three boys in karate costumes aren't fighting,Three men are practicing karate in a field
+يقود رجل بلا قميص عربة يجرها حصان,رجل بلا قميص يرافق حصانًا يسحب عربة على طريق ممهد,1,4.6,A shirtless man is escorting a horse that is pulling a carriage along a paved road,A shirtless man is leading a carriage that is being pulled by a horse
+امرأة تظهر كلبًا بشعر طويل جدًا في عرض للكلاب,امرأة تمشي مع زوج من الكلاب,0,2.8,A woman is walking with a pair of dogs,A woman is showing a dog with very long hair at a dog show
+صبي على تل مغطى بالثلج يرتدي سترة حمراء وقبعة سوداء وينزلق على ركبتيه,الطفل ينزلق بسعادة في الثلج,0,4.0,The kid is happily sliding in the snow,A boy on a hill covered in snow is wearing a red jacket and a black hat and is sliding on his knees
+يتقاتل كلبان بني وأبيض في منطقة عشبية أمام شجرة,كلبان يلعبان في الداخل,0,2.8,Two dogs are playing inside,Two brown and white dogs are fighting on a grassy area in front of a tree
+الرجل والصبي يقفون في أسفل الدرج,لا يوجد رجل كبير في المسرح يتحدث لصبي,0,2.2,There is no adult in the amphitheater talking to a boy,"The man and the boy are standing at the bottom of the stairs, which are outdoors"
+تعزف فتاة على الغيتار,يتم العزف على الغيتار  من قبل فتاة,1,4.8,A guitar is being played by a girl,A girl is playing a guitar
+ رجل قطع البطاطا,رجل قطع البطاطا إلى شرائح ,1,4.7,A man is slicing a potato into pieces,A man is cutting a potato
+اثنين من الكلاب البيضاء تعمل معا,اثنين من الكلاب البيضاء تعمل بسرعة معا,1,4.6,Two white dogs are quickly running together,Two white dogs are running together
+نمر يتجول في قفص,نمر يسير خارج القفص,1,4.4,A tiger is walking outside a cage,A tiger is walking around a cage
+شخص يمزق ورق,شخص يمزق الورق,0,3.7,A person is tearing paper,A person is tearing sheets
+مجموعة من الناس تتجمع في منصة في المعرض,الناس يتجمعون في منصة في المعرض,1,4.8,People are grouping at a stand at the fair,A group of people is gathering at a stand at the fair
+صبي يكتب على لوحة المفاتيح,صبي يجلس في غرفة ويعزف على البيانو بجانب المصباح,1,4.0,A boy is sitting in a room and playing a piano by lamp light,A boy is playing a keyboard
+المرأة تقلي فرم لحم الخنزير المقدد,المرأة تقطع بعض الخبز ولحم الخنزير المقلية,0,2.9,The woman is chopping some bread and fried pork,The woman is frying a breaded pork chop
+امرأة تقفز على الحبل في الخارج,امرأة تقطع خيارًا,0,1.3,A woman is slicing a cucumber,A woman is jumping rope outside
+يركض كلب بكمامة وسترة زرقاء حول الفناء,رجل يقف على رصيف,0,4.2,A dog with a muzzle and a blue jacket is running around the court,A dog with a muzzle and a blue jacket is running around the yard
+يتم توصيل كاميراا من قبل الرجل,شخص ما يضرب عدسة الكاميرا بمسمار,0,3.535,Someone is banging a camera lens against a nail,A camera is being hammered onto the nail by the man
+يتم عزف على الناي من قبل رجل,رجل يعزف على الفلوت,1,4.8,A man is playing a flute,A flute is being played by a man
+رجل يجري مكالمة هاتفية,رجل ينتظر على الهاتف,0,3.8,A man is hanging up the phone,A man is making a phone call
+يعزف طفل على الغيتار, طفل يغني و يعزف على الغيتار,1,4.2,A kid is singing and playing a guitar,A kid is playing the guitar
+امرأة تضيف التوابل إلى بعض اللحوم,المرأة  إضافة السكر إلى اللحوم,1,3.9,The woman is adding sugar to the meat,A woman is adding spices to some meat
+طفل يعطس  ويخيف طفل آخر,طفل يجلس,0,2.8,A baby is sitting,A baby is sneezing and scaring another baby
+مجموعة من الكشافة يخييمون في العشب,بعض الناس يمشون ,0,1.5,Some people are walking,A group of scouts are camping in the grass
+امرأة ترتدي البيكيني تسحب كلبًا على مقود على الشاطئ,امرأة ترتدي البيكيني تسحب كلبًا على مقود على شاطئ البحر,1,4.6,A woman in a bikini is pulling a dog on a leash at the seashore,A woman in a bikini is pulling a dog on a leash at the beach
+وحيد القرن يرعى على العشب,الرجل تلعب لعبة على العشب,0,1.9,The man is playing a game on the grass,The rhino is grazing on the grass
+طفل صغير يرتدي شريط كرة قدم أخضر ويركض على العشب,لا يوجد طفل صغير يرتدي شريط كرة قدم أخضر ويركض على العشب,2,3.6,There is no little boy wearing a green soccer strip and running on the grass,A little boy is wearing a green soccer strip and is running on the grass
+امرأة لا تشرح سمكة,امرأة تشرح سمكة,2,2.7,A woman is slicing a fish,There is no woman slicing a fish
+ثلاثة أطفال يرقصون ولا أحد ينظر إليهم,ثلاثة أطفال يرقصون و رجل ينظر إليهم,2,3.9,Three Asian kids are dancing and a man is looking,Three Asian kids are dancing and there is no man looking
+رجل يقوم به الظهر تقلب على الترامبولين,لا يوجد أي رجل القيام الظهر تقلب على الترامبولين,2,3.5,There is no man doing back flips on a trampoline,A man is doing back flips on a trampoline
+رجل يكتب على لوحة المفاتيح,يتم الكتابة على لوحة مفاتيح من قبل رجل,1,5.0,A keyboard is being played by a man,A man is playing a keyboard
+رجل له وشم على أريكة ويحمل قلم رصاص,رجل يضع وشماً يتسكع على أريكة ويحمل قلم رصاص,1,4.4,A man with tattoos is lounging on a couch and holding a pencil,A tattooed man is on a sofa and is holding a pencil
+يتحدث ضابط للمجندين,يصرخ الضابط العسكري في المجندين,1,4.385,The military officer is barking at the recruits,An officer is talking to the recruits
+فتاة تقلم أظافرها,كلب يجلس على الأرض,0,1.0,A dog is sitting on the ground,A girl is tapping her fingernails
+قط صغير يستلقي على السرير,كلب صغير يستلقي على السرير,0,2.9,A small dog is lying on the bed,A small cat is lying on a bed
+المرأة تتبل الزيت,الشيف يتبل الزيت,0,4.1,The chef is seasoning the oil,The woman is seasoning the oil
+صبي صغير يرتدي القميص الأزرق يقفز في الماء,صبي صغير يرتدي القميص الأزرق ليس يقفز في الماء,2,3.9,The young boy in the blue shirt is not jumping into the water,The young boy in the blue shirt is jumping into the water
+رجل يقوم بتقليب الظهر على الترامبولين,يقفز العديد من الأولاد على الترامبولين,0,3.4,Several boys are jumping on a trampoline,A man is doing back flips on a trampoline
+رجل يصلي بحرارة,رجل يرقص ,0,1.7,A man is dancing,A man is praying fervently
+شخص يركب دراجة في الرمال بجانب المحيط,شخص واحد يركب دراجة على الرمال بجانب المحيط,0,3.9,One person is riding a bicycle in the sand beside the ocean,A man on a bicycle is riding on the beach
+لا يشاهد الكلب البني الذي يسبح في بركة ماء,الكلب الأسمر يراقب كلبًا بنيًا يسبح في بركة,2,3.7,The tan dog is watching a brown dog that is swimming in a pond,The tan dog is not watching a brown dog that is swimming in a pond
+يقف كلب بني كبير وكلب رمادي صغير على سطح صخري,يقف كلب بني كبير وكلب رمادي صغير على سطح صخري,0,3.3,A big brown dog and a small grey dog are standing on a rocky surface,The brown dog is sniffing the back of a small black dog
+كان هناك طفل صغير يقفز في بركة في الشارع,هناك بعض القوارب الخضراء في بركة مليئة الطين طفل صغير يلعب و يرتدي وشاح,0,2.6,Some green boots in a puddle full of mud are targeted by a playful young child wearing a scarf,A little boy is jumping into a puddle on the street
+امرأة ترتدي قميصًا أزرق مع سترة بيضاء وقبعة بيضاء وتتحدث وتسير,المرأة التي ترتدي الزي الأزرق والأبيض مع قبعة بيضاء وزرقاء تبقي فمها مفتوحًا وقربها من الآخرين الذين يرتدون نفس الموضة,0,3.4,The woman wearing the blue and white uniform with a white and blue hat is keeping her mouth open and is near others who are dressed in the same fashion,A woman is wearing a blue shirt with a white vest and a white cap and is talking and marching
+الكلب البني الكبير يركض في الخارج في التراب,الكلب البني الكبير لا يركض في الخارج في التراب,2,3.0,The large brown dog is not running outside in the dirt,The large brown dog is running outside in the dirt
+الرجل يجري مقابلة,الرجل ينفي إجراء مقابلة,2,3.2,The man is denying an interview,The man is granting an interview
+تعزف فتاة على  البيانو, فتاة صغيرة تعزف على بيانو كبير على خشبة المسرح,1,4.3,A little girl is playing a grand piano on stage,A girl is playing the piano
+رجل يغني لامرأة,رجل اتصل هاتفيا,0,1.7,A man is phoning,A man is singing to a woman
+مجموعة من خمسة شباب يسترخون في الداخل,تقف مجموعة كبيرة من الناس ويجلس اثنان على الأريكة,0,3.5,A big group of people are standing and two are sitting on the couch,A group of five young adults are lounging indoors
+حبل يتسلقه رجل,رجل يتم شدّه بواسطة متسلق,1,4.3,A man is mindlessly slicing the carrot with a machine,A man is slicing the carrot with a machine
+ شاب يعمل بعيدا عن خط الصيد,وصبي يعمل بعيدا عن خط الصيد,0,4.1,A boy is running away from the fishing line,A young man is running away from the fishing line
+رجل يرتدي قميصًا مصبوغًا باللون البنفسجي يبتعد عن رجل يرتدي قميصًا أسود ، وهو جاد,الرجل الذي يقوم بالوقفة يراقبه رجل آخر,0,2.8,A man doing a pose is being watched by another man,"A man in a shirt dyed purple is walking away from a man in a black shirt, who is serious"
+يتم عزف البيانو من قبل شخص,صبي يعزف بسعادة على البيانو,1,4.3,A boy is happily playing the piano,A piano is being played by a person
+رجل آخذ في الارتفاع من مستنقع,رجل يخرج من الماء في المستنقع,0,3.4,A man is escaping a rising swamp,A man is rising from a swamp
+شخصين يجلسون على مقعد في حديقة في يوم ممطر,شخصين يجلسون على مقعد في حديقة في يوم مشمس,0,3.2,Two people are sitting on a park bench on a sunny day,Two people are sitting on a park bench on a rainy day
+رجل يوقف دراجة نارية,الحصان يركب من قبل رجل,0,1.5,A motorbike rider is running over a man ,The horse is being ridden by a man
+القطة الجاثمة على الطاولة تنظر من النافذة,القطة تنظر من النافذة على الطاولة الموجودة على الفرخ,0,4.1,The cat is looking out the window at the table on the perch,The cat perched on the table is looking out the window
+رجل يقود سيارة,يتم تنظيف النوافذ من قبل رجل,0,1.4,The windows are being cleaned by a man,The man is driving a car
+كلب في الرمال التي تهب في الريح,يوجد كلب في منطقة مليئة بالرمال ، حيث يتم تحريك الرمال في الهواء وتوجد عدة نباتات في الخلفية,1,3.765,"A dog is in an area full of sand, with the sand that is being stirred up into the air and several plants are in the background",A dog is in the sand that is blowing in the wind
+امرأة تزيل المكياج من وجهها,امرأة تضع المكياج على وجهها,2,2.915,A woman is putting make-up on,The woman is removing make-up
+الشخص قطع  البصل,ليس هناك شخص قطع البصل,2,4.0,There is no person cutting an onion,A person is cutting an onion
+وقالت امرأة أنها تدق الطبول,رجل يعزف على الغيتار,0,2.6,A man is playing guitar,A woman is playing the drums
+تلعب مجموعة من الأولاد  بالكرة   أمام باب كبيرة مصنوعة من الخشب,لا يلعب الأطفال أمام الباب الكبير,0,3.4,The children aren't playing in front of a large door,A group of boys are playing with a ball in front of a large door made of wood
+وليس هناك رجل يعزف على الفلوت,رجل يعزف على الفلوت,2,4.0,A man is playing a flute,There is no man playing a flute
+فتاة باللون الذهبي والأرجواني تحمل قوس قزح أفغاني,امرأة عجوز تحمل الكثير من الأوشحة الملونة على الشاطئ,0,1.5,An old woman is carrying a lot of colorful scarves on the beach,A girl in gold and purple is holding a rainbow afghan
+وقالت امرأة أنها قشرت  البطاطا,وقالت امرأة أنها قشرت  البطاطا,1,4.9,A woman is removing the peel of a potato,A woman is peeling a potato
+رجل بصق,هناك لا يوجد رجل يتحدث,0,2.2,There is no man speaking,A man is spitting
+يسير أربعة أشخاص على طول رصيف المدينة والشخص الذي يرتدي القبعة الخضراء يتصل بشخص ما,مجموعة من الناس يسيرون في الشارع وشخص يرتدي قبعة خضراء يتحدث على الهاتف,0,4.2,A group of people is walking down the street and a person in a green hat is on the phone,Four people are walking along a city sidewalk and the one in the green hat is phoning someone
+وليس هناك رجل يركب دراجة كهربائية,رجل يركب دراجة كهربائية,2,3.5,A man is riding an electric bicycle,There is no man riding an electric bicycle
+ثلاث فتيات في سن المراهقة وتسكع في الغرفة,ثلاث فتيات في سن المراهقة ترقص في الغرفة,0,3.5,Three teenage girls are dancing in the room,Three teenage girls are idling in the room
+والشخص يصب الزيت في وعاء,والشخص يصب زيت الزيتون في وعاء على موقد,1,4.2,A person is pouring olive oil into a pot on the stove,A person is pouring cooking oil into a pot
+الرجال يؤدون على خشبة المسرح,الرجال يتصرفون على خشبة المسرح,1,4.4,The men are acting on a stage,The men are performing on stage
+رجل يحمل قناعا في يده المرفوعة,رجل يحمل قناعا في يده المرفوعة,0,3.2,A man is holding a mask in his raised hand,A man elegantly dressed in black is wearing an elaborate black mask
+نمر يخطو نحو القفص,نمر يتجول بلا هدف,0,4.4,A tiger is walking around aimlessly,A tiger is pacing around a cage
+رجل قطع بصلة,رجل يأكل شرائح البصل,0,3.7,A man is eating onion slices,A man is slicing an onion
+ رجلين يعزفوت على الغيتار,اثنين من الناس يتحدثون,0,1.8,Two people are talking,Two men are playing guitar
+امرأة تغلي البيض,امرأة يأخذ اثنين من البيض من وعاء من الماء,0,3.9,A woman is taking two eggs out of a pot of water,A woman is boiling eggs
+رجل يرتدي قبعة أرجوانية يتسلق جدارًا صخريًا بيده العاريتان,الرجل الذي يرتدي قبعة أرجوانية لا يتسلق جدارًا صخريًا بيده العارية,2,3.6,A man in a purple hat isn't climbing a rocky wall with bare hands,A man in a purple hat is climbing a rocky wall with bare hands
+فتاة تلعب الجيتار,تلعب سيدة الجيتار,0,2.6,The guitar is being played by a lady,The play for the ladies requires a guitar
+يوجد شخصان يرتديان أزياء خضراء وحمراء بالخارج على الرصيف,يوجد شخصان يرتديان أزياء خضراء وحمراء بالخارج على شاطئ البحر,0,4.0,Two people dressed in green and red costumes are outside on the seashore,Two people dressed in green and red costumes are outside on the sidewalk
+تقف مجموعة من الفتيات الآسيويات معًا,تقف مجموعة من الفتيات الآسيويات بمفردهن,1,3.7,A group of Asian girls are standing by themselves,A group of Asian girls are standing together
+شخص يلعب على لوحة المفاتيح,يتم تشغيل لوحة المفاتيح بواسطة شخص,1,4.8,A keyboard is being played by a person,A person is playing a keyboard
+امرأة شابة يحمل الكثير من الأوشحة الملونة على الشاطئ,امرأة عجوز يحمل الكثير من الأوشحة الملونة على الشاطئ,0,4.2,An old woman is carrying a lot of colorful scarves on the beach,A young woman is carrying a lot of colorful scarves on the beach
+شخص ما يعزف على البيانو,شخص ما يعزف على الجيتار,0,2.8,Somebody is playing the guitar,Someone is playing a piano
+مجموعة كبيرة من الأشخاص يأكلون في مطعم,وتجمع حشد من الناس  يأكلون على طاولات حمراء في مطعم مضاء باللون الأرجواني,0,3.1,A purple crowd of people is eating on various red lit restaurant tables,A large group of Asian people is eating at a restaurant
+الغرير لا تختبئ في حفرة,والغرير يحفر بدهاء الأرض,2,2.7,A badger is shrewdly digging the earth,The badger isn't burrowing a hole
+المرأة لا تضع المعكرونة في طبق, امرأة  سحب بعض غو لزجة من وعاء,0,2.2,A woman is pulling some sticky goo out of a bowl,The woman is not putting pasta into a dish
+لاعبو الرجبي يتعاملون مع بعضهم البعض,لاعب كرة قدم يتعرض للاعتداء من قبل خصمه,0,2.3,There is no soccer player who is being tackled by an opponent,Rugby players are tackling each other
+الرجل ذو الشعر البني يرتدي نظارة شمسية ويجلس على طاولة مع علب الصودا وغيرها من المشروبات,الرجل ذو الشعر البني يرتدي نظارة شمسية ويجلس بلا حراك على طاولة مع علب الصودا وغيرها من المشروبات,1,4.4,The man with brown hair is wearing sunglasses and is sitting listlessly at a table with cans of soda and other drinks,The man with brown hair is wearing sunglasses and is sitting at a table with cans of soda and other drinks
+لا يقوم الشخص بتقطيع فص ثوم إلى قطع,يقوم الإنسان بتقطيع الفليفلة إلى قطع,1,3.5,A person is cutting a capsicum into pieces,The person is not slicing a clove of garlic into pieces
+تبحث الكلاب البيضاء بفضول في اللاما السوداء,اللاما السوداء تنظر بفضول إلى الكلاب البيضاء,0,4.1,The black llama is curiously looking at the white dogs,The white dogs are looking curiously at the black llama
+رجل لا يقص العشب,رجل يختلط,0,1.9,A man is mixing,A man is not mowing a lawn
+يتم تقبيل المرأة من قبل الرجل,اثنين من الناس يقبلان بعضهما  أمام مجموعة من الناس,0,4.0,Two people are kissing near a crowd,A woman is being kissed by a man
+حيوان عض إصبع شخص ما,حيوان عض إصبع الشخص,1,5.0,An animal is biting a person's finger,An animal is biting someone's finger
+رجل يقطع الجزرة بالآلة,رجل يقطع الجزرة بلا عقل,0,3.2,A man is removing a carrot from a machine,A man is slicing the carrot with a machine
+طفلة صغيرة تعزف على البيانو الكبير على المسرح,لا توجد فتاة صغيرة تعزف على البيانو,2,2.6,There is no little girl playing the piano,A little girl is playing a grand piano on stage
+رجل يسير خارجا,رجل يتحرك برشاقة,0,3.2,A man is moving gracefully,A man is walking outside
+تمثيليات صامتة يؤدون على المسرح,الرجال يتصرفون على خشبة المسرح,0,3.6,The men are acting on a stage,Mimes are performing on a stage
+الشخص الذي يركب الدراجة النارية يرفع ذراعه,رجل على حصان يركب على مضمار ويلوح,0,1.8,A man on a horse is riding on a track and waving,The person on the motorcycle is holding up an arm
+ليس هناك رجل يعزف  على البيانو,امرأة تعزف على الكمان,0,2.1,A woman is playing the violin,There is no man playing the piano
+لا يقود الفيل  المرأة,رجل يركب الحصان بتهور,0,1.4,A man is recklessly riding a horse,The elephant isn't being ridden by the woman
+ويلعب الأطفال في ملابس السباحة في الماء,الأطفال في ملابس السباحة لا يلعبون في الماء,2,4.2,Children in swimming suits are not playing in the water,Children in swimming suits are playing in the water
+شخص يضع الفطر بعيدًا,الشخص قطع  الفطر بسكين,0,3.3,A person is cutting mushrooms with a knife,A person is putting away the mushrooms
+رجل يقطع البطاطا إلى شرائح,رجل يطهي شرائح من البطاطس,0,3.7,The man is cooking slices of potato,The man is slicing a potato
+قرد  يغيظ الكلب في حديقة الحيوان,قرد  سحب ذيل الكلب,0,4.4,A monkey is pulling a dog's tail,A monkey is teasing a dog at the zoo
+يعزف صبي على الغيتار,يعزف صبي على الغيتار,1,4.5,The boy is playing a guitar,A kid is playing a guitar
+مرأة تقطع البطاطا,حصان يركبه شخص,0,1.0,A horse is being ridden by a person,A woman is slicing potatoes
+طفل يعزف على الغيتار,يعزف صبي الموسيقا,0,4.0,A boy is playing an instrument,A kid is playing guitar
+يركض ثلاثة أطفال على أحد التلال العشبية,ثلاثة أطفال يركضون فوق أحد التلال العشبية,0,4.3,Three children are running up a grassy hillside,Three children are running down a grassy hillside
+طفل ينتظر يرتدي ملابس السباحة,سباح شاب يجلس في ثوب السباحة وينتظر السباق التالي,1,3.515,A young swimmer is sitting in a bathing suit and waiting for the next race,A kid is waiting wearing swim gear
+امرأة  لم تقطع الطماطم,وقالت امرأة أنها قشرت  البطاطا,0,3.2,A woman is removing the peel of a potato,A woman is slicing a tomato
+امرأة ترقص على خشبة المسرح,امرأة تسير على خشبة المسرح,0,3.6,A woman is walking off a stage,A woman is dancing on a stage
+القط  يسبح بعد كرة التنس,كلب ينبح في الكرة,0,2.2,A dog is barking at a ball,A cat is swimming after a tennis ball
+امرأة آسيوية في حشد من الناس يحمل حقيبة سوداء,امرأة آسيوية في حشد من الناس لا يحمل حقيبة سوداء,0,3.8,An Asian woman in a crowd is not carrying a black bag,An Asian woman in a crowd is carrying a black bag
+شخص ما يحمل الحيوانات الصغيرة,شخص ما يحمل القنفذ,1,4.45,Someone is holding a hedgehog,Someone is holding a small animal
+لا يوجد كلب بني يركض عبر العشب الأخضر الطويل,يركض كلب ذهبي في حقل من العشب الطويل,0,4.0,A golden dog is running through a field of tall grass,There is no brown dog running through tall green grass
+خمسة أشخاص يقفون مع ثلاثة كلاب في الحقول الخضراء على جانب الطريق,خمسة أشخاص يقفون في العشب مع عدم وجود الكلاب,2,3.7,Five people are standing in the grass with no dogs,Five people are standing with three dogs in the green field beside the road
+امرأة تعصر الليمون,ليس هناك امرأة تعصر  الليمون,2,3.7,There is no woman squeezing juice out of a lemon,A woman is squeezing a lemon
+المسترد الذهبي قيد التشغيل ,يسير كلب أصفر في طريق رملي,0,4.0,A yellow dog is running up a sandy path,A golden retriever is running
+ليس هناك رجل يتحدث على خشبة المسرح,رجل يتحدث على المنصة,0,3.4,A man is speaking on a podium,There is no man speaking on a stage
+المرأة تنظر إلى منظر المدينة,امرأة تنظر إلى منظر المدينة,1,4.9,A woman is looking at the view of a city,The woman is looking at the view of a city
+سيدة تركب الأمواج,فتاة شقراء تلوح وهي تركب الأمواج,0,2.3,A blond girl waves while she is riding,A lady is surfing and riding a wave
+شخص يقوم بتنظيف حيوان,ليس هناك امرأة تقوم بتنظيف الروبيان,0,2.6,There is no woman cleaning a shrimp,Someone is cleaning an animal
+غزال يقفز فوق سياج الإعصار,غزال يقف داخل سياج,0,3.3,A deer is standing inside a fence,A deer is jumping over a cyclone fence
+فتاة صغيرة ترتدي معطفًا مصنوعًا لفصل الشتاء تقفز من صخرة على الرمال على الشاطئ,فتاة تقفز من فوق صخرة وأخرى تقف عليها,0,2.8,A girl is jumping off a rock and another is standing on it,A young girl in a coat made for winter is jumping off a boulder into the sand at a beach
+رجل يمارس الرياضة,فتاة تتمشى ,0,1.2,The girl is lounging,A man is exercising
+ رجل قطع البطاطا إلى قطع,رجل قطع البطاطا إلى شرائح ,1,4.6,A man is slicing a potato into pieces,A man is cutting a potato into pieces
+لا توجد سيدة تمسك الفرشاة بجانب حامل الرسام,الفتاة ذات المعطف الأزرق ترسم,0,2.8,The girl in the blue coverall is painting,There is no lady holding the paintbrush next to the artist's easel 
+تقف امرأة آسيوية شابة ترتدي قفازات وردية اللون في الثلج,يقود راكب الدراجة النارية مع سترة زرقاء وسروال أسود وخوذة بيضاء على التراب والناس يراقبون,0,4.0,A female wearing pink gloves and a brown jacket is smiling in the snow,A young Asian woman with pink gloves is standing in the snow
+كلب يقفز عاليا في الهواء وآخر يراقب,يلعب اثنين من الكلاب أمام شجرة,0,3.0,Two dogs are playing by a tree,A dog is leaping high in the air and another is watching
+شخص يقلي اللحوم في مقلاة,شخص يقلي اللحوم في مقلاة,1,4.4,A person is frying meat in a pan,A person is frying food in a pan
+يمر كلب بني وأبيض تحت حاجز أحمر وأصفر وأبيض,يقفز كلب بني وأبيض فوق عقبة حمراء وصفراء وبيضاء,0,4.1,"A brown and white dog is jumping over a red, yellow and white hurdle","A brown and white dog is passing under a red, yellow and white hurdle"
+رجل يضع بعض الجبن على بيتزا,يضع رجل بعض الجبن على بيتزا,1,5.0,Some cheese is being put on a pizza by a man,A man is putting some cheese on a pizza
+تجلس ثلاث نساء في قرية ,تجلس بعض النساء معًا بالقرب من الجدران المنسوجة,0,3.4,Some women are sitting together near woven walls,Three women are sitting in a village
+رجل يعزف على الفلوت,رجل يعزف على الفلوت الكبير,1,4.4,A man is playing a large flute,A flute is being played by a man
+صبي يقوم بفحص التقويم,الصبي يفحص التقويم,1,4.9,The boy is checking a calendar,A boy is checking a calendar
+رجل يعزف على الفلوت,الرجل يلعب بمهارة على الغيتار,0,3.2,The man is skillfully playing the guitar,A man is playing a flute
+كلب صغير أسود يطارد كلبًا بنيًا صغيرًا,كلب أسود صغير يطارد كلبًا بنيًا صغيرًا,1,4.8,A little black dog is chasing a little brown dog,"A dog, which is little and black, is chasing a little brown dog"
+اثنين من القطط يقاتلون بعضهم البعض,اثنين من القطط تقاتل بعضها البعض,1,4.4,Two cats are playfully fighting each other,Two cats are fighting each other
+كان هناك طفل صغير يقفز في بركة في الشارع,طفل صغير يرتدي الأحذية الخضراء ويلعب في بركة مليئة بالطين,0,3.8,A young child is wearing green boots and playing in a puddle full of mud,A little boy is jumping into a puddle in the street
+الطبيب يساعد المريض,الأطباء تنعش رجل,1,4.0,The doctors are reviving a man,The doctor is helping the patient
+شخص  يقطع البصل,شخص  لم تقطع البصل,2,4.4,A person is not chopping an onion,A person is chopping an onion
+امرأة تضع اللحم في مقلاة,امرأة تضع  اللحم في مقلاة,1,4.5,A woman is clumsily putting meat in a pan,A woman is putting meat in a pan
+ هناك عدد قليل من الرجال يلعبون لعبة الكريكيت,هناك عدد قليل من الرجال يراقبون لعبة الكريكيت,0,3.6,A few men are watching cricket,A few men are playing cricket
+رجل يقفز في حوض سباحة ممتلىء,رجل يقفز في حوض سباحة فارغ,2,3.0,A man is jumping into an empty pool,A man is jumping into a full pool
+فتاة صغيرة تنظر بتمعن  إلى رجل في زي تنكري,مجموعة أشخاص يرتدون أزياء تنكرية تجمعوا في الغابة و ينظرون  في نفس الاتجاه,0,3.0,People wearing costumes are gathering in a forest and are looking in the same direction,The little girl is looking at a man in costume
+امرأة وكلب يجلسان على جذع شجرة,امرأة عجوز بالقرب من كلب أبيض,0,3.1,"A woman, who is old, is near a white dog",A woman and a dog are sitting on a tree stump
+رجل وامرأة يقفان على الرصيف,امرأة ترتدي قميصًا أزرق اللون وتقف على الرصيف بجانب الرجل,0,3.4,A woman wearing a blue shirt and high heels is standing on the sidewalk next to the man,A man and a woman are standing on the curb
+وهناك لاعب كرة القدم لم يتمكن من تحقيق هدف,لاعبي كرة القدم يركل لكرة القدم داخل المرمى,0,3.1,Soccer players are kicking a soccer ball into the goal,A soccer player is missing a goal
+صبيان يرقدان في الماء بالقرب من الشاطئ,طفلان يتدحرجان في المياه الموحلة,0,2.5,Two children are rolling in muddy water,Two boys are laying in the water close to the beach
+رجل يقف على سطح,رجل يقف على السطح ويعزف على الكمان,1,4.0,A man is standing on a roof top and playing a violin,A man is standing on a roof
+يلعب فتاة صغيرة على حافة نافورة وامرأة مسنة تراقبها,تلعب الفتاة على حافة نافورة وامرأة مسنة تراقبها,1,4.8,The young girl is playing on the edge of a fountain and an older woman is watching her,A young girl is playing on the edge of a fountain and an older woman is watching her
+وقالت امرأة أنها قفزت من دراجة,امرأة تؤدي خدعة  على منحدر مع دراجة,0,4.3,A woman is performing a trick on a ramp with a bicycle,A woman is jumping with a bicycle
+سيدة شابة ترتدي البيكيني مستلقية على الشاطئ,الفتاة ذات القبعة السوداء ترتدي البكيني على الشاطئ,0,3.5,The girl in the black hat is wearing a bikini at the beach,A young lady in a bikini is lying on the beach
+طائر بحري يطير فوق بعض الصخور,طائر بحري يطير ببطء فوق بعض الصخور,1,4.7,A seabird is slowly flying over some rocks,A seabird is flying over some rocks
+رجل وامرأة يسيرون,رجل وامرأة كانوا يسيرون بشكل جيد,1,4.9,A man and a woman are walking nicely,A man and a woman are walking
+راكب دراجة بالزي الأسود والأحمر يقف على دراجة ترابية,من يركب دراجة بزي أسود وأحمر يقف على دراجة ترابية,1,4.8,"A person who rides bikes, in a black and red uniform, is standing on a dirt bike",A bike rider in a black and red uniform is standing on a dirt bike
+مجموعة من الناس على الشاطئ,رجل وامرأة وفتاتين كانوا يسيرون على الشاطئ,1,4.3,"A man, a woman and two girls are walking on the beach",A group of people is on a beach
+رجل يرتدي كنزة مادية اللون يجلس على صخرة أمام الشلال,امرأة تقف ولا تنظر إلى الشلال ,0,2.5,A woman is standing and isn't looking at the waterfall,The man in a grey t-shirt is sitting on a rock in front of the waterfall
+امرأة  لم تقطع الثوم,امرأة قطعت بصلة,0,3.2,A woman is slicing an onion,A woman is slicing garlic
+يتم وضع معدات الجبل بثبات أمام السائق الواقف,شخص  في العتاد ركوب الدراجات يقف بثبات أمام بعض الجبال,0,3.6,A person in biking gear is standing steadily in front of some mountains ,The mountain gear is steadily placed in front of the standing biker
+يقف شخصان في المحيط يشاهدان غروب الشمس,يسير شخصان بالقرب من الماء,0,3.4,Two people are walking near the water,Two people are standing in the ocean and watching the sunset
+لا يوجد يرقص,رجل يصلي,0,1.6,A man is praying,There is no man dancing
+المتزلج على الجليد يقفز من تل ثلجي,المتزلج على الجليد يقفز من على تل مغطى بالثلوج,1,4.8,The snowboarder is jumping off a snow covered hill,The snowboarder is jumping off a snowy hill
+شخص  يركب دراجة نارية قديمة,شخص  يقطع البصل,0,1.1,A person is chopping an onion,A person is riding an old motorcycle
+لا يوجد كلب بني يركض عبر الفناء ولعبة في فمه,كلب بني يركض عبر الفناء ولعبة في فمه,2,3.8,A brown dog is running across the yard with a toy in its mouth,There is no brown dog running across the yard with a toy in its mouth
+ويجري المقلية بعض المواد الغذائية من قبل امرأة,امرأة تقلي بعض المواد الغذائية,1,5.0,A woman is frying some food,Some food is being fried by a woman
+يتم غلي المكرونة في الماء من قبل امرأة,امرأة يغلي الشعرية في الماء,1,4.8,A woman is boiling noodles in water,Noodles are being boiled in water by a woman
+الرجل لا يقلي اللحوم في مقلاة,الرجل دفع الفواتير,0,1.1,A person is holding a skunk,A person is not frying meat in a pan
+لا يوجد شخص يرتدي الجينز ويجلس فوق سرج حصان,شخص يرتدي الجينز يجلس فوق سرج حصان,2,3.7,A person wearing jeans is sitting on top of a horse saddle,There is no person wearing jeans sitting on top of a horse saddle
+امرأة تضع الطفل في سلة المهملات,يتم وضع الطفل في سلة المهملات من قبل امرأة,1,4.9,The baby is being put into a trash can by a woman,A woman is putting the baby into a trash can
+وقال كبير الطهاة بإعداد بعض المواد الغذائية,ويجري إعداد بعض الطعام من قبل الطاهي,1,4.815,Some food is being prepared by a chef,A chef is preparing some food
+الرجل يتبل اللحم,يقوم الرجل بإضافة التوابل إلى الماء في وعاء,0,3.0,The man is adding seasoning to the water in a bowl,The man is seasoning the meat
+الأصدقاء يصنعون وجوهًا للكاميرا,رجلان وفتاة أمام جدار من الألواح الخشبية يتظاهران بوجوه مضحكة,0,3.5,Two men and a girl in front of a wood panel wall are posing with funny faces,The friends are making faces for the camera
+الرجل يطعم الثعبان مع الماوس,يعمل رجل على الكمبيوتر,0,1.1,A man is working on the computer,The man is feeding the snake with a mouse
+ثلاثة أطفال يرقصون و رجل ينظر إليهم,لا يوجد أطفال يلعبون هنا,0,1.6,There are no children playing and waiting,Three Asian kids are dancing and a man is looking
+فتاة مع حقيبة سوداء هي في قطار مزدحم,تلميذة مع حقيبة سوداء هي في قطار مزدحم,1,4.7,A schoolgirl with a black bag is on a crowded train,A girl with a black bag is on a crowded train
+المرأة التي ترتدي ملابس غير رسمية تغلق فمها وتكون بالقرب من أشخاص آخرين يرتدون ملابس مختلفة,امرأة ترتدي الزي الأزرق والأبيض مع قبعة بيضاء وزرقاء وتفتح فمها بالقرب من الآخرين وهي ترتدي نفس الموضة,0,3.0,A woman wearing a blue and white uniform with a white and blue hat is keeping her mouth open and is near others dressed in the same fashion,A woman wearing casual clothing is keeping her mouth closed and is near other people dressed differently
+رجل يقف أعلى صخرة فوق بعض الأشجار بشكل غريب,لا يوجد مسافر يرقص على قمة الجبل,0,2.4,There is no hiker dancing on top of the mountain,A man is on a rock high above some trees and is standing in a strange position
+كلب يمسك كرة في الهواء,شخص يرتدي قميصًا أخضر يقفز على العشب,2,3.4,A dog is missing the ball in mid air,A dog is catching a ball in mid air
+كلب يركض عبر الثلج,كلب أسود يركض في الثلج,1,4.5,A black dog is running in the snow,A dog is running through the snow
+لا يوجد رجل يطبخ ثعبان,رجل يطبخ ثعبان,2,3.7,A man is cooking a snake,There is no man cooking a snake
+هامستر يغني,شخص يقطع بعض البصل,0,1.0,A person is slicing some onions,A hamster is singing
+يتم العزف على الغيتار  من قبل رجل,رجل يعزف على الغيتار,1,5.0,A man is playing a guitar,A guitar is being played by a man
+يعزف المغني على الغيتار أمام شخص,شخص يغني و يعزف على الغيتار,0,4.0,A person is singing and playing the guitar,The singer is playing the guitar in front of a person
+المتسابقون لا يشاركون في السباق,المتسابقون يتسابقون حول مضمار السباق,1,4.9,Some runners are competing in a race,Runners are competing in a race
+الفتاة ذات القميص الأحمر المصبوغ لا تنفخ فقاعة,الفتاة الصغيرة تنفخ فقاعة ضخمة,0,3.3,The young girl is blowing a bubble that is huge,The girl in a dyed red shirt isn't blowing a bubble
+الرجال يتحدثون,بعض النساء يتحدثون,0,1.9,Some women are talking,The men are having a conversation
+امرأة تضع اللحم في مقلاة,امرأة تضع  اللحم في مقلاة,1,4.5,A woman is clumsily putting meat in a pan,A woman is putting meat in a pan
+صبي صغير يرتدي قميصًا مخططًا ينزلق من أنبوب أخضر,صبي صغير يرتدي قميصًا أخضر يخطط أنبوبًا منزلقًا,0,3.0,A small boy in a green shirt is striping a sliding tube,A small boy in a striped shirt is sliding out of a green tube
+الكلاب  لا يلعقون بعض قطرات من الماء,الكلب  ارتشف بعض قطرات من الماء,2,4.0,The dog is snapping at some droplets of water,The dog isn't snapping at some droplets of water
+امرأة تشرح  الفلفل الأخضر,امرأة تشرح  الفلفل وهي خضراء,1,4.8,A woman is slicing a pepper which is green,A woman is slicing a green pepper
+الناس يبحثون في بعض الأزياء تجمعوا في محيط الغابة,فتاة صغيرة تنظر بتمعن  إلى امرأة في زي تنكري,0,2.6,A little girl is looking at a woman in costume,People are looking at some costumes gathered in the vicinity of the forest
+رجل يعزف على الجيتار,يقوم رجل بقرع الطبول,0,2.9,The drums are being played by a man,A man is playing the guitar
+الغرير يحفر الأرض بمهارة,يتم حفر حفرة من قبل الغرير,1,4.5,A hole is being burrowed by the badger,A badger is shrewdly digging the earth
+شخصين يلعبون الملاكمة و لا  أحد يشاهدهم,شابتان تتنافسان في ملاكمة,0,3.7,Two women are sparring in a kickboxing match,Two people are kickboxing and spectators are not watching
+رجل يركب الحصان في الصحراء,وقال الرجل أنه لم يركب الخيل ,0,3.6,A guy is not riding a horse,A man is riding a horse in the desert
+الرجال لا يحزمون الحقائب في صندوق سيارة,الرجال يضعون حقائب في صندوق سيارة,2,4.0,The men are putting suitcases into the trunk of a car,The men are not packing suitcases into the trunk of a car
+الرجل يقوم بخدعة سحرية,يؤدي الساحر خدعة سحرية,2,3.6,The man isn't doing a magic trick,The man is doing a magic trick
+الكلب البني الكبير يركض في الخارج في التراب,الكلب البني الكبير يركض في الهواء الطلق في التراب,1,4.9,The large brown dog is running outdoors in the dirt,The large brown dog is running outside in the dirt
+العروس والعريس يغادرون بعد حفل الزفاف,الكاهن  المشي في الممر إلى الزواج من الزوجين,0,2.8,The priest is walking down the aisle to marry a couple,The bride and the groom are leaving after the wedding
+رجل يضع وشماً يتسكع على أريكة ويحمل قلم رصاص,رجل يضع وشماً  يجلس على الأريكة مع قلم رصاص,0,2.6,A man with tattoos is holding a couch with a pencil,A man with tattoos is lounging on a couch and holding a pencil
+كلب يركض على الطريق,الرجل يجري على الطريق,0,3.2,The man is running on the road,A dog is running on the road
+امرأة تتحدث على الهاتف,امرأة لا تتكلم على الهاتف,2,3.5,A woman is not talking on a telephone,A woman is talking on a telephone
+امرأة ترتدي زيًا وطلاءًا وركوب الدراجة في شارع مزدحم,ركوب الدراجة من قبل فتاة في زي غريب,0,3.7,The bike is being ridden by a girl in a strange outfit,A woman is wearing paint and costume pieces and is riding a bike on a busy street
+شخص يرتدي سترة حمراء مقنعين وحقيبة ظهر سوداء لا يسير بالقرب من جدار صخري,شخص يرتدي سترة حمراء مقنعين وحقيبة ظهر سوداء يسير بالقرب من جدار صخري,2,4.3,A person with a red hooded jacket and a black backpack is walking near a rocky wall,A person with a red hooded jacket and a black backpack is not walking near a rocky wall
+طفل يسبح على سطح الماء في بركة,طفل يبتسم للكاميرا ويسبح تحت الماء,0,3.1,A child is smiling at the camera and swimming underwater,A child is swimming on the water's surface in a pool
+لا يوجد ممارس للكاراتيه يركل رجلًا آخر يرتدي قفازات الملاكمة الواقية,الرجل يركل الملاكمة مع مدرب,0,3.0,The man is kick boxing with a trainer,There is no karate practitioner kicking at another man who is wearing protective boxing gloves
+مجموعة من الأولاد يلعبون كرة القدم على الشاطئ,مجموعة من الرجال يلعبون كرة القدم على الشاطئ,0,4.4,A group of men is playing soccer on the beach,A group of boys is playing soccer on the beach
+امرأة تعرض قطة صغيرة لطفل رضيع,امرأة جالسة بجانب كلب وتبتسم لفتاة صغيرة جالسة على الرصيف,0,2.8,A woman is crouching down next to a dog and is smiling at a little girl sitting on the sidewalk,A woman is showing a small cat to an infant
+امرأة تطبخ  البيض,المرأة لا  تطبخ شيئا,2,4.2,The woman is not cooking something,A woman is cooking eggs
+لا يوجد لاعب كرة قدم يرتدي قميصًا أرجوانيًا يركض بالكرة للهبوط,لاعب كرة قدم يرتدي قميصًا أرجوانيًا يركض بالكرة للهبوط,2,4.3,A football player in a purple jersey is running with the ball for a touchdown,There is no football player in a purple jersey running with the ball for a touchdown
+طفل أشقر ينزل على المنزلق ويلقي ذراعيه,فتاة صغيرة ترتدي قميصًا على شكل قلب ترفع يديها وهي تنزلق,0,2.8,A young girl with a heart tank top is raising her hands as she is sliding,A blond kid is going down a slide and throwing up his arms
+المرأة قطعت الجمبري,يتم قطع الجمبري من قبل امرأة,0,4.0,A prawn is being cut by a woman,A woman is cutting shrimps
+شخص يقوم بعمل خدعة على لوح التزلج,شخص يقوم بعمل خدعة على لوح التزلج,1,4.4,A man is doing a trick on a skateboard,A person is doing a trick on a skateboard
+ويتم تقطيع البصل,لا أحد يحمل القنفذ,0,1.0,Nobody is holding a hedgehog,An onion is being sliced
+شخص يدهن قطة,رجل يدهن قطة,1,5.0,The person is brushing a cat,A person is brushing a cat
+رجل صغير يجلس في متجر مستلزمات عسكرية,رجل كبير يجلس في متجر مستلزمات عسكرية,0,3.9,A large man is sitting in a military accessories store,A small man is sitting in a military accessories store
+وقالت امرأة أنها قطعت القرنبيط,وقالت امرأة أنها قطعت بعض النباتات,0,3.5,A woman is cutting some plants,A woman is cutting broccoli
+بعض الأطفال يقفزون على الترامبولين,هناك عدد قليل من الأطفال يقفزون على الترامبولين,1,4.6,A few children are jumping on a trampoline,Some children are jumping on a trampoline
+لا يلعب القط بالبطيخ,يلعب قط بالبطيخ,2,3.7,A cat is playing with a watermelon,The cat isn't playing with a watermelon
+الفتاة الصغيرة تمشط شعرها في شكل ذيل حصان.,رجل يجلس على الكرسي,0,1.1,One man is sitting on the chair,"The girl, who is little, is combing her hair into a pony tail."
+رجل يعزف بحماس على الغيتار,شخص يغني و يعزف على الغيتار,0,4.185,A person is singing and playing the guitar,A man is passionately playing a guitar
+الرجل رفع اثقال,الرجل  رفع الحدائد,1,4.6,A man is lifting barbells,The man is lifting weights
+فتاة تعزف على الجيتار,شابة تعزف على الجيتار,2,3.3,A girl is playing the guitar,A girl is not playing the guitar
+لا يجب على النساء اللواتي يرتدين البنطلونات الفضية أو ركوب الدراجة أن ترتديها الجرس الوردي والوشاح الوردي,المرأة التي ترتدي سروالًا فضيًا وجرسًا ورديًا ووشاحًا ورديًا تركب دراجة,0,3.3,"The woman wearing silver pants, pink bellbottoms and a pink scarf is riding a bike",Pink bellbottoms and a pink scarf aren't to be worn by women with silver pants or bike riding people
+يرتدي كلب أبيض طوق رأس من حيوان الرنة في عيد الميلاد ويلعب مع كلب يرتدي معطفًا بني اللون في العشب,يرتدي كلب أبيض عصابة رأس لرنة عيد الميلاد ويلعب مع كلب بني على العشب,1,4.5,A white dog is wearing a Christmas reindeer headband and is playing with a brown dog in the grass,A white dog is wearing a Christmas reindeer headband and is playing with a dog with a brown coat in the grass
+رجل يقفز في الهواء في منطقة حرجية,لا يوجد رجل يقفز في الهواء في منطقة حرجية,2,3.9,There is no guy leaping into the air in a wooded area,A guy is leaping into the air in a wooded area
+امرأة تعزف على الغيتار,رجل يضع  الغيتار جانيا,0,2.7,A man is putting down the guitar,A woman is playing a guitar
+طفل جالس يرتدي ملابس السباحة,طفل ينتظر يرتدي ملابس السباحة,0,4.3,A kid is waiting wearing swim gear,A kid is sitting wearing swim gear
+ليس هناك امرأة تركب الخيل ,رجل يركب الحصان,0,4.3,A man is riding a horse,There is no woman riding a horse
+كرة خضراء كبيرة تنقصها حبة بطاطس,كرة خضراء كبيرة تضرب حبة بطاطس,2,3.4,A large green ball is hitting a potato,A big green ball is missing a potato
+خمسة بالغين يجلسون على درجات مصنوعة من الحجر,خمسة بالغين يجلسون على درجات حجرية,1,4.9,Five adults are sitting on stone steps,Five adults are sitting on steps made of stone
+الرجال ذوو السراويل البنية يمشون على الصخور بجانب نهر,ثلاثة أولاد يمشون بحذر على الصخور بمحاذاة النهر,0,3.5,Three boys are carefully walking on rocks along a river,The men in brown shorts are walking on the rocks beside a river
+كلب أبيض يركض عبر منطقة صخرية,كلب أسود يسير على طول التضاريس الصخرية,0,3.0,A black dog is walking along rocky terrain,A white dog is running across a rocky landscape
+البصل قطعه  رجل إلى شرائح,رجل قطع بصلة,1,4.9,A man is slicing an onion,An onion is being sliced by a man
+لاعبو كرة القدم باللونين الأحمر والأبيض يقفزون ويعانقون بعضهم البعض,بعض لاعبي كرة القدم باللونين الأحمر والأبيض يقفزون ويعانقون,1,4.8,Some football players in red and white are jumping and hugging,Football players in red and white are jumping and hugging each other
+لا يوجد كلب بني وكلب أسود يلعبان في الرمال,كلب بني وكلب أسود يمرحان في الرمال,2,4.0,A black dog is playing with a brown dog on the sand,There is no brown dog and black dog playing in the sand
+الرجل يقذف طفلاً في المسبح القريب من المحيط,أب يطلق ابنته في حمام سباحة,0,3.8,A father is launching the daughter in a swimming pool,The man is tossing a kid into the swimming pool that is near the ocean
+خنزير غينيا صغير يقضم ويأكل قطعة من الجزر على الأرض,خنزير غينيا ، وهو صغير الحجم ، يقضم ويأكل قطعة من الجزر على الأرض,1,4.8,"A guinea pig, which is small, is gnawing and eating a piece of carrot on the floor",A small guinea pig is gnawing and eating a piece of carrot on the floor
+رجل يقود سيارة,رجل يقود سيارة بعناية,1,4.6,The man is driving a car carefully,The man is driving a car
+بعض الأولاد الذين يرتدون سجادة يجلسون على بدلتين أحمرتين,يجلس صبيان صغيران يرتديان بدلات رسمية على أرضية مغطاة بالسجاد الأحمر,0,3.1,Two small boys dressed in tuxedos are sitting on a red carpeted floor,Some boys being dressed with a carpet are sitting on two red tuxedos 
+ويجري ضرب رجل من قبل طفل بسلاح,صبي يضرب  رجل بسيف,1,4.4,A boy is whacking a man with a sword,A man is being hit by a kid with a weapon
+الناس يقفون في كرنفال,الناس يتجمعون في منصة في المعرض,0,3.6,People are grouping at a stand at the fair,The people are standing at a carnival
+لا يوجد سنجاب يدور في دوائر,سنجاب يدور في دوائر,2,4.2,A squirrel is spinning around in circles,There is no squirrel spinning around in circles
+شخص  يركب دراجة,متسابق الدراجة في زي أسود وأحمر يقفز أسفل قبالة الدراجة الترابية,0,3.8,A bike rider in a black and red uniform is jumping down off a dirt bike,A person is riding a bike
+امرأتان مع كلاب تسير على طريق الغابة,يسير كلبان وشخصان في الغابة,0,4.2,Two dogs and two people are walking in a wood,Two women with dogs are walking on a forest path
+يتحدث ضابط للمجندين,مجندين يتحدثون إلى ضابط,0,3.7,Recruits are talking to an officer,An officer is talking to the recruits
+كلب يجري بجانب سياج على طريق ترابي,الكلب البني الكبير يركض في الخارج في التراب,0,3.9,The large brown dog is running outside in the dirt,A dog is running alongside a fence on a dirt track
+وكانت طائرة تطير,وكانت طائرة لا تطير,2,2.4,A jet is not flying,A jet is flying
+فريقين يتنافسون في مباراة لكرة القدم,وهناك لاعب يلعب  بالكرة ,0,2.6,A player is running with the ball,Two teams are competing in a football match
+ليس هناك امرأة تقشر البطاطا,امرأة  لم تقطع الطماطم,0,1.8,A woman is slicing a tomato,There is no woman peeling a potato
+شخص ماهر يركب دراجة على عجلة واحدة,شخص يرتدي سترة سوداء يقوم ببعض الحيل على دراجة نارية,0,3.4,A person in a black jacket is doing tricks on a motorbike,A skilled person is riding a bicycle on one wheel
+رجل يجلس على الأرض ويعزف على الغيتار,رجل والأرضيات عازف الغيتار الجلوس,0,3.4,A man is flooring a sitting guitar player,A man is sitting on the floor and is playing a guitar
+صبي يعزف بسعادة على البيانو,صبي يعزف بسعادة على البيانو,1,5.0,A boy is happily playing the piano,One boy is happily playing a piano
+امرأة تضع ثقوب في البطاطا,امرأة تضع طفلا في سلة المهملات,0,1.1,A woman is putting a baby in a waste bin,The woman is poking holes in the potato
+يتم دهان وجه رجل امرأة,امرأة تضع المكياج على وجه رجل,1,4.5,The woman is putting makeup on the man,A man's face is being painted by a woman
+رجل يركب سيارة في مرآب,رجل يسارع إلى ركوب سيارة في مرآب,1,4.7,A man is hurriedly getting into a car in a garage,A man is getting into a car in a garage
+امرأة لا قطع التوفو,المرأة تقطع البصل,0,3.2,A woman is cutting onions,A woman is not cutting tofu
+صبي صغير يقفز في بحيرة ساكنة,صبي صغير يغوص في بحيرة ساكنة,1,5.0,A young boy is diving into a still lake,A young boy is jumping into a still lake
+رجل واحد يتسلق  على جرف بحبل,متسلق الاجتماعي يكبل رجل إلى الهاوية بحبل,0,3.1,A social climber is tying a man to a cliff with a rope,One man is climbing a cliff with a rope
+كلب أسود وبني يتطلع إلى ذبابة,كلب بني وأسود ينظر إلى الأعلى,0,3.2,A brown and black dog is looking upwards,A black and brown dog is eyeing a fly
+امرأة تضع على ماكياج,فتاة تضع ماكياج على وجهها,0,3.5,A girl is applying makeup to her face,A woman is putting on makeup
+ليس هناك امرأة تلعب مع اثنين من الصبية الصغار في حديقة,امرأة تقف بالقرب من ثلاثة أطفال,0,2.1,A woman is standing near three children,There is no woman playing with two young boys at a park
+كلب يقفز على الأشجار في الظل,يقفز كلب في ظل بعض الأشجار,0,3.6,A dog is jumping in the shade of some trees,A dog is jumping on a trees in the shades
+يقوم كلب الراعي بتجميع قطيع من الأغنام,يقوم كلب الراعي بتجميع قطيع من الأغنام,1,5.0,A sheepdog is grouping a herd of sheep,The sheepdog is grouping a herd of sheep
+رجل يقف بالقرب من دراجة ويكتب على ورقة,رجل يجلس بالقرب من دراجة ويكتب ملاحظة,0,3.6,A man is sitting near a bike and is writing a note,A man is standing near a bike and is writing on a piece paper
+صبي يرتدي اللون الأزرق يركض نحو امرأة ترتدي اللون الأزرق,صبي يلعب في الحديقة مع والدته,0,2.9,A young boy is playing in the park with his mother,A boy in blue is running towards a woman in blue
+كلبان من سلالات مختلفة ينظران إلى بعضهما البعض عبر الشارع ,كلب أبيض يحدق في الشارع الأسود ,0,3.4,One white dog is staring at the black street,Two dogs of different breeds are looking at each other across a street
+رجل قطع بسرعة بعض الفطر بسكين,الشخص سرعان ما قطع الفطر بسكين,1,4.7,A person is quickly chopping mushrooms with a knife,A man is rapidly chopping some mushrooms with a knife
+يتباطأ كلب صغير ويتوقف المالك عن مطاردته,الكلب الأسود والأبيض يركض ويقف شخص خلفه,0,2.9,The black and white dog is running and a person stands behind it,A little dog is slowing down and the owner is quitting chasing it
+رجل يتسلق  على الحبل,دب الباندا يتسلق ,0,1.6,A panda is climbing,A man is climbing a rope
+صبي مبتسم يرتدي ملابس شتوية يلوح بيده المقفلة خارج مبنى وسط الثلج,يقف كلب كبير وكلب صغير بجوار طاولة المطبخ ويقومان بالتحقيق,0,1.0,A large dog and a small dog are standing next to the kitchen counter and are investigating,A smiling boy in winter clothes is waving his mittened hands outside a building in the snow
+كلب يفتح جرة طعام,كلب عض علبة,0,3.4,A dog is biting a can,A dog is opening a jar of food
+يتم تقطيع بعض اللحوم إلى قطع بواسطة امرأة,المرأة تأكل بعض قطع اللحم النيء,1,4.5,A lady is cutting up some meat precisely,A lady is cutting up some meat
+يستريح كلب بني وأبيض على الأرض وفي فمه كرة تنس,كلب يمسك كرة في الهواء,2,3.4,A brown and white dog is jumping in the air with a tennis ball in its mouth,A brown and white dog is resting on the ground with a tennis ball in its mouth
+الكنغر  التقاط امرأة,المرأة تلتقط كنغر صغير,0,3.0,The woman is picking up a baby kangaroo,The kangaroo is picking up the woman
+لا يوجد أي رجل يجلس على كرسي و يفرك عينيه,رجل يضع وشماً يتسكع على أريكة ويحمل قلم رصاص,0,1.6,A man with tattoos is lounging on a couch and holding a pencil,There is no man sitting on a chair and rubbing his eyes
+فتاة ذات شعر أحمر وحواجب حمراء في الخطاب المتوسط,تتحدث فتاة ذات شعر أحمر وحاجبين أحمر,1,4.6,A girl with red hair and red eyebrows is talking,A girl with red hair and red eyebrows is in midspeech
+ رجل قطع كعكة,رجل يقوم بقطع الطماطم إلى شرائح الحمراء,0,3.2,A man is slicing a red tomato,A man is slicing a bun
+السيدة تقيس كاحل امرأة أخرى,المرأة تقيس الرجل,0,3.0,The woman is measuring a man,The lady is measuring the ankle of another woman
+ليس هناك امرأة تقشر البطاطا,رجل يقطع البطاطا إلى شرائح,0,3.4,The man is slicing potatoes,There is no woman peeling a potato
+يتم تقطيع الفلفل البرتقالي من قبل شخص,يقوم الطباخ بتقطيع بعض الفليفلة الحلوة,0,3.1,Some bells are ringing near a cook slicing peppers,A cook is slicing some bell peppers
+يتم قطع البصل من قبل رجل,يتم قطع أي البصل من قبل رجل,2,3.1,No onion is being cut by a man,An onion is being cut by a man
+كلب أسود وبني يتطلع إلى ذبابة,قطة سوداء وبنية تتطلع إلى ذبابة,0,3.2,A black and brown cat is eyeing a fly,A black and brown dog is eyeing a fly
+لا يتم وضع اللحم في وعاء,ويتموضع اللحم في وعاء,2,3.2,The meat is being dropped into a pan,The meat is not being dropped into a pan
+المرأة  لا تقلي الأسماك,امرأة تطبخ السمك,0,3.6,A woman is cooking fish,A woman is not frying fish
+والشخص يصب زيت الزيتون في وعاء على موقد,ليس هناك شخص سكب زيت الزيتون في وعاء على موقد,2,3.6,There is no person pouring olive oil into a pot on the stove,A person is pouring olive oil into a pot on the stove
+رجل واحد يلعب بحماس على الغيتار,رجل يعزف بحماس على الغيتار,1,4.9,A man is passionately playing a guitar,One man is passionately playing the guitar
+سيدة يتم تقبيلها من قبل رجل,اثنين من الناس يقبلان بعضهما  أمام مجموعة من الناس,0,4.1,Two people are kissing near a crowd,A lady is being kissed by a man
+رجل لايعزف على الغيتار,رجل يعزف على الغيتار,2,3.4,A man is playing a guitar,A man is not playing a guitar
+لا يوجد رجل يحمل قناعا في يده المرفوعة,رجل يتسلق ,0,1.2,A man is climbing a rope,There is no man holding a mask in his raised hand
+وتلعب بعض الناس لعبة الكريكيت,يلعب الناس لعبة الكريكيت,1,4.9,People are playing cricket,Some people are playing cricket
+رجلان وفتاة أمام جدار من الألواح الخشبية يتظاهران بوجوه مضحكة,ثلاثة أصدقاء يصنعون وجوهًا لالتقاط صورة,0,3.9,Three friends are making faces for a photo,Two men and a girl in front of a wood panel wall are posing with funny faces
+مجموعة من الناس يجلسون في غرفة مظلمة,رجل وامرأتان في غرفة مظلمة يجلسون على طاولة بها شموع,1,3.6,A man and two women in a dark room are sitting at a table with candles,The group of people is sitting in a dim room
+لا يوجد  فتاة تقفز إلى السيارة,سيارة تقفز بشكل مخاطرة فوق فتاة,0,2.9,A car is riskily jumping over a girl,One girl is jumping on the car
+رجل يقف على السطح ويعزف على الكمان,رجل يرقص على السقف,0,3.0,A man is dancing on a roof ,A man is standing on a roof top and playing a violin
+الكلب الصغير يمسك شبشب غرفة النوم بفمه بشكل مضحك,كلب بني يحدق بانتباه في كلب بني وأبيض,0,2.5,A brown dog is staring attentively at a brown and white dog,The little dog is grabbing the bedroom slipper with its mouth funnily
+ويجري استخدام كرة التنس كبيرة لتعليم الكلب الركض على في العشب إمساكها  مع فمه,يركض كلب كبير على العشب بالكرة   التنس في فمه,0,3.8,A large dog is running on the grass with a tennis ball in its mouth,A large tennis ball is being used to teach a dog to run in the grass and catch it with its mouth
+موسيقي يكتب على لوحة المفاتيح,رجل يعزف على الغيتار,0,2.3,A man is playing a guitar,A musician is playing a keyboard
+رجل يجدف في قارب,رجل يطلق النار مع القوس,0,1.6,A man is shooting with a bow,A man is rowing a boat
+ولعب عدد قليل من الحيوانات في الماء,وتلعب بعض الحيوانات بعنف في الماء,1,4.4,Some animals are playing wildly in the water,A few animals are playing in the water
+يقفز كلب أسود في الثلج عن الأرض ويلتقط عصا,لا يوجد كلب يقفز من أجل طبق فريسبي في الثلج,2,3.6,There is no dog jumping for a Frisbee in the snow,A dog is jumping for a Frisbee in the snow
+الرجل يعزف على الجيتار وعلبة الجيتار مفتوحة للتبرعات,يقف رجل يرتدي بدلة أرجوانية اللون بجانب علبة أرجوانية ويعزف على الجيتار,0,3.7,A man in a purple colored suit is standing by a purple case and is playing a guitar,The man is playing the guitar and has the guitar case open for donations
+رجل يعزف على الغيتار,الرجل يعزف على الناي,0,2.9,The man is playing the flute,A man is playing the guitar
+امرأة تؤدي خدعة  على منحدر مع دراجة,الفتاة التي ترتدي خوذة  تركب الدراجة ,0,3.7,The helmeted girl is riding a bike,A woman is performing a trick on a ramp with a bicycle
+متزلج يرتدي ملابس سوداء يلتقط القليل من الهواء,متزلج باللون الأسود يلتقط القليل من الهواء,1,4.9,A skier in black is catching a tiny bit of air,A skier dressed in black is catching a tiny bit of air
+كلب أبيض وآخر أسود يركضان جنبًا إلى جنب على العشب,A شخص أسود في أبيض يعمل بفرح مع الكلب على العشب,0,2.3,A black person in white is joyfully running with the dog on the grass,One white dog and one black one are running side by side on the grass
+سمكة تسبح,الأسماك غير متحركة,2,3.8,The fish are immobile,A fish is swimming
+وهؤلاء الرجال في الحقائب التي يتم معبأة في صندوق سيارة,الرجال يحزمون الحقائب في صندوق سيارة,0,3.9,The men are packing suitcases into the trunk of a car,The men are in the suitcases that are being packed in the trunk of a car
+امرأة شابة عارية الصدر مغطاة بالطلاء,حشد عاري في طلاء الجسم يسير أمام سيدة,0,3.0,A nude crowd in body paint is walking in front of a lady ,"A young, topless woman is covered in paint"
+يقف شخص في حقل واسع من الجليد الجليدي,الشخص لا يقف على الجليد الأبيض,0,3.1,The person is not standing on white ice,A person is standing in a vast field of glacial ice
+عاملان بناء يجلسان على قمة أحد المباني,كلب كبير وكلب أبيض صغير يلعبان معًا,0,1.0,A big dog and a small white dog are playing together,Two construction workers are sitting up on the top of a building
+رجل يرتدي بذلة يركب الأمواج ,لا يوجد سيرفر متوكئا على لوح تركب الأمواج ,0,3.0,There is no surfer leaning on a surfboard,The man is wearing a wetsuit and is riding a surfboard
+وقالت امرأة  تركب الخيل ,وليس هناك رجل يركب الحصان,0,3.1,There is no man riding a horse,A woman is riding a horse
+يقف الرجل في مسطح مائي بالقرب من شلال,الرجل يسبح في مسطح مائي بالقرب من شلال,0,4.0,The man is swimming in a body of water near a waterfall,The man is standing in a body of water near a waterfall
+والفهد يركض بسرعة وراء فريسته.,يهز الفهد فريسته في الحقل.,0,3.7,A cheetah is shaken off by its prey across a field.,A cheetah is quickly running behind its prey.
+ امرأة  تضع مستحضرات التجميل للجفن لها,امرأة يستخدم قلم رصاص العين وتضع المكياج بطانة العين على جفنها,1,4.4,A woman is using an eye pencil and is applying eye liner to her eyelid,A woman is applying cosmetics to her eyelid
+المرأة تعزف على الجيتار ، وهو صوتي ، وغناء,المغني يعزف على الجيتار في حفل موسيقي لامرأة,1,4.4,"The woman is happily playing a guitar, which is acoustic, and singing",A person is playing a guitar and singing
+تعزف فتاة على الغيتار,الرجل   يعزف على الغيتار بتركيز,0,2.8,The intense man is a guitar player,A girl is playing the guitar
+كلب ينثر قطيعًا من الأغنام البيضاء في مزرعة متربة,يقوم كلب الراعي بتجميع قطيع من الأغنام,0,3.6,A sheepdog is grouping a herd of sheep,A dog is scattering a pack of white sheep on a dusty farm
+رجل يجلس بالقرب من العلم,رجل يجلس على متن قارب أمام غروب الشمس,0,3.8,"A man is sitting on a boat in font of the sunset, near a flag",A man is standing on a boat in front of the sunset near a flag
+رجل يتزلج على تلة ويقفز على عقبة حمراء,رجل يتزلج على تلة وفوق حاجز أحمر,1,4.4,A man is skiing down a hill and over a red obstacle,A man is skiing down a hill and jumping a red obstacle
+رجل يركب سيارة,رجل يركب سيارة,1,4.8,A man is getting into an automobile,A man is getting into a car
+لا يوجد رجل يركب دراجة نارية,المرأة تدس حبة بطاطس,0,1.1,The woman is poking a potato,There is no man riding a motorcycle
+البقرة لا تأكل التبن,بقرة تأكل العشب,1,3.65,A cow is eating grass,A cow is not eating hay
+يلعب اثنان من الجراء البيض بالقرب من الماء,يلعب اثنان من الجراء البيض بالقرب من المسبح,1,4.4,Two white puppies are playing near a pool,Two white puppies are playing near water
+امرأة كسرت البيض في وعاء,المرأة كسرت اثنين من البيض في وعاء مصنوع من الزجاج,1,4.5,The woman is cracking two eggs into a bowl made of glass,A woman is cracking an egg into a bowl
+وقالت امرأة أنها قشرت  البطاطا,رجل يقطع البطاطا إلى شرائح,0,3.4,The man is slicing potatoes,A woman is peeling a potato
+صبي يأكل كيك,صبي يأكل كيك,0,3.8,A boy is eating a cupcake,A woman is eating a cupcake
+امرأة تنظر إلى منظر المدينة,تنظر سيدة شقراء إلى برج,0,3.3,A tower is being looked at by a blonde lady,A woman is looking at the view of a city
+الكلب يطرق الصبي في الماء,صبي يضرب كلبًا بزجاجة ماء,1,4.55,The woman is adding sugar to the meat slowly,The woman is adding sugar to the meat
+الرجل ذو الشعر البني يرتدي نظارة شمسية ويجلس على طاولة مع علب الصودا وغيرها من المشروبات,لا يوجد شاب ذو شعر بني ونظارات شمسية يجلس أمام بعض علب الصودا,2,2.8,There is no young man with brown hair and sunglasses sitting in front of some cans of soda,The man with brown hair is wearing sunglasses and is sitting at a table with cans of soda and other drinks
+ تقود الفيل  امرأة,رجل يركب الحصان بتهور,0,1.0,A man is recklessly riding a horse,The elephant is being ridden by the woman
+صبيان وتتكلم على الهاتف,امرأة تتحدث على جهاز هاتفي,0,2.5,A woman is talking on a telephonic device,Two boys are talking on the phone
+القرد ينظف الكلب,قرد يفرش الكلب,1,5.0,A monkey is brushing the dog,The monkey is brushing the dog
+كلب يركض على الخرسانة ويمسك كرة زرقاء,يقف كلب على الخرسانة ويمسك كرة زرقاء,0,4.2,A dog is standing on concrete and is holding a blue ball,A dog is running on concrete and is holding a blue ball
+وقال الرجل أنه ركب الخيل ,وقال الرجل أنه لم يركب الخيل ,2,4.1,A guy is not riding a horse,A guy is riding a horse
+ثلاثة أشخاص يجلسون على مقعد تحت بعض أشجار النخيل,الناس لا يجلسون على مقعد أمام مطعم,0,3.2,The people are not sitting on a bench in front of a restaurant,Three people are sitting on a bench under some palm trees
+ليس هناك امرأة تركب الخيل ,وقالت امرأة أنها ركبت الخيل,2,3.4,A woman is riding a horse,There is no woman riding a horse
+رجل كبير يجلس في متجر مستلزمات عسكرية,لا يوجد محارب قديم يعرض أشياء من حرب لبعض الناس,0,2.4,There is no veteran showing things from a war to some people,A large man is sitting in a military accessories store
+اثنين من الصبية يلعبون لعبة فيديو,اثنين من الصبية يلعبون على أريكة ألعاب الفيديو,1,4.3,Two boys on a couch are playing video games,Two boys are playing a video game
+يتم وضع الناي بعيدا عن فتاة,يتم العزف على الناي من قبل فتاة,2,3.1,A flute is being played by a girl,A flute is being put away by a girl
+رجل ملتح يقف بجانب عربة تسوق ويحمل لافتة من الورق المقوى,رجل ملتح يجلس بجانب عربة تسوق ويرمي لافتة من الورق المقوى,0,4.0,A bearded man is sitting by a shopping cart and is dropping a cardboard sign,A bearded man is standing by a shopping cart and is holding a cardboard sign
+لا يوجد رجل يرش التوابل على أرغفة خبز مقطعة ومدهونة بالزبدة,رجل يرش التوابل على أرغفة خبز مقطعة ومدهونة بالزبدة,0,2.9,A man is sprinkling seasoning on several sliced and buttered loaves of bread,A man is removing the garlic from some slices of bread
+كلبان أبيضان وكلب بني يطاردان لعبة,كلبان أبيضان وكلب بني يطاردان كرة,1,4.5,Two white dogs and one brown dog are chasing a ball,Two white dogs and one brown dog are chasing a toy
+رجل يتمرن,رجلان يتعانقان,0,1.4,Two men are hugging,The man is doing exercises
+والشخص يصب الزيت في وعاء,ليس هناك شخص سكب زيت الزيتون في وعاء على موقد,0,3.8,There is no person pouring olive oil into a pot on the stove,A person is pouring cooking oil into a pot
+يلعب القط  بلوحة مفاتيح,يلعب القط  بلوحة مفاتيح,1,5.0,The cat is playing keyboards,A cat is playing keyboards
+شخص يأكل على طاولة,شخص يأكل في مطعم,0,4.0,A person is eating in a restaurant,A person is eating at a table
+كلب أبيض وأسود يلعب بكرة مكسورة,يلعب كلب أبيض وأسود كرة طائرة مكسورة,1,4.5,A black and white dog is playing with a broken volleyball,A black and white dog is playing with a broken ball
+رجل يعزف على الغيتار,رجل يعزف بحماس على الغيتار,1,4.6,A man is passionately playing the guitar,A man is playing the guitar
+يعزف الصبي على البيانو,المرأة تضع الزيت في المقلاة,0,1.0,The woman is pouring oil into the pan,The boy is playing the piano
+مجموعة من الأطفال يلعبون على هيكل ملون,أربعة أطفال من الشرق الأوسط ، ثلاث فتيات وصبي ، يتسلقون الكهف ذو التصميم الداخلي الوردي,1,3.8,"Four middle eastern children, three girls and one boy, are climbing on the grotto with a pink interior",A group of kids is playing on a colorful structure
+طفل صغير جالس,صبي جالس على مقعد,0,4.2,A boy is sitting in a seat,A toddler is sitting down
+يقف كلب أبيض على أوراق الشجر المتساقطة,أب يدفع ابنته على عربة صغيرة وفتاة أخرى تراقب,0,1.0,A father is pushing his daughter on a go-kart and another girl is watching,A white dog is standing on fallen leaves
+كلب بالقرب من الكرة الحمراء في الهواء,كلب  بالقرب من الكرة الملونة باللون الأحمر,1,4.9,"A dog is near a ball colored in red, which is in the air",A dog is near the red ball in the air
+فتاة تمارس الرياضة ,فتاة تتمشى ,0,3.015,The girl is lounging,A girl is exercising
+رجل على دراجة هوائية يركب على الشاطئ,رجل على دراجة هوائية يركب على الشاطئ,1,4.6,A man on a bicycle is riding on the beach,A man on a bike is riding on the shore
+لا يلعب  جرو بوعاء من البلاستيك,يلعب مع الكلب وعاء من البلاستيك,2,3.8,The dog is playing with a plastic container,The puppy is not playing with a plastic container
+شخص يمزق الورق,شخص لا تمزق الورق,2,3.0,A person is not tearing paper,A person is tearing paper
+وتجمع حشد من الناس  يأكلون  في مطعم مزدحم مضاء باللون الأرجواني,مجموعة كبيرة من الشعوب الآسيوية يأكل في مطعم,0,2.9,A large group of Asian people is eating at a restaurant,Various customers are eating in a crowded restaurant with purple lights
+يقف كلب كبير وكلب صغير على طاولة المطبخ ويبحثان,يقف كلب كبير وكلب صغير بجوار طاولة المطبخ ويقومان بالتحقيق,1,4.4,A large dog and a small dog are standing next to the kitchen counter and are investigating,A large dog and a small dog is standing on the kitchen counter and investigate
+شخص ما يقوم بتعقيم وتطهير حيوان,شخص يقوم بتنظيف حيوان,1,4.5,Someone is cleaning an animal,Someone is cleansing an animal
+وقالت امرأة أنها تقطع الفاكهة,امرأة تطلق النار من بندقية,0,1.5,A woman is firing a rifle,A woman is cutting fruit
+شخص يمزق الورق,رجل يمزق ورقة,0,3.0,A person is tearing sheets,A man is cutting a paper
+فتاة تقلم أظافرها,يركض كلب على الأرض,0,1.0,A dog is running on the ground,A girl is tapping her fingernails
+قارب الإنقاذ البرتقالي يندفع عبر الماء,رجلان يركبان زورقًا برتقاليًا على الشاطئ,0,3.4,Two men are riding an orange raft on the shore,The orange rescue boat is rushing across the water
+امرأة ترتدي خوذة زرقاء وركوب دراجة في موقف للسيارات,المرأة ترتدي خوذة زرقاء وركوب دراجة في موقف للسيارات,1,5.0,The woman is wearing a blue helmet and is riding a bicycle in a parking lot,A woman is wearing a blue helmet and is riding a bicycle in a parking lot
+وقالت امرأة أنها قطعت القرنبيط,وقالت امرأة أنها قطعت بعض النباتات,0,3.5,A woman is cutting some plants,A woman is cutting broccoli
+قطعة خبز كبيرة بها زبدة يرش عليها رجل أو قطعة خبز كبيرة يرشها رجل بالزبدة,رجل يفرش الزبدة على قطعة خبز كبيرة,0,1.0,"The girl, who is little, is carefully combing her hair into a pony tail",One man is sitting on the chair
+كان هناك طفل صغير يقفز في بركة في الشارع,طفل صغير يرتدي الأحذية الخضراء ويلعب في بركة مليئة بالطين,0,3.8,A young child is wearing green boots and playing in a puddle full of mud,A little boy is jumping into a puddle in the street
+رجل يغوص في بركة,رجل يقفز في بركة,1,4.8,A man is jumping into a pool,A man is diving into a pool
+رجل قطع بسرعة بعض الفطر بسكين,ليس هناك رجل يقطع بسرعة بعض الفطر بسكين,2,3.9,There is no man rapidly chopping some mushrooms with a knife,A man is rapidly chopping some mushrooms with a knife
+ترتدي المرأة فستانًا أسود وأحمر وأبيض وزهريًا,امرأة تخلع عباءة,0,3.4,"A woman is taking off a cloak, which is very large, and revealing an extravagant dress","A black, red, white and pink dress is being worn by a woman"
+رجل يغني ويعزف على الغيتار,ليس عناك رجل يغني ويعزف على الغيتار,2,3.5,There is no man singing and playing a guitar,A man is singing and playing a guitar
+رجل يتحدث على المنصة,رجل يتحدث على خشبة المسرح,0,4.3,A man is speaking on a stage,A man is speaking on a podium
+عائلة سعيدة تقف بجانب المدفأة,عائلة تقف بجانب الرف وشجرة عيد الميلاد,0,3.4,A family is posing by the mantel and the Christmas tree,A happy family is posing by the fireplace
+امرأة ترتدي فستانًا أسود تسحب عربة وتقف أمام رجلين يجلسان على مقعد في الحديقة,سيدة ترتدي ثوبًا أسود وتحمل صليبًا أبيض,0,2.7,A lady is wearing a black dress and is carrying a white cross,A woman in a black dress is pulling a cart and is standing in front of two men who are seated on a park bench
+ثلاثة أطفال يرقصون و رجل ينظر إليهم,لا يوجد أطفال يلعبون هنا,0,1.6,There are no children playing and waiting,Three Asian kids are dancing and a man is looking
+رجل يعزف على الغيتار,ليس هناك رجل يكتب على لوحة المفاتيح,0,2.7,There is no man playing a keyboard,A man is playing a guitar
+يرتدي الأطفال أزياءهم ويلعبون لعبة,فتاة صغيرة ذات وجه ملون تقف بجانب بعض الأطفال الآخرين,0,3.1,A young girl with painted face is standing next to some other children,Children are being dressed in costumes and playing a game
+ولعب عدد قليل من الحيوانات في الماء,يلعب شخصين بينج بونج,0,1.0,Two people are playing ping pong,A few animals are playing in the water
+تم تجهيز مجموعة من الأشخاص بمعدات تستخدم للحماية,مجموعة من الناس مجهزة بمعدات واقية,1,5.0,A group of people is equipped with protective gear,A group of people is equipped with gear used for protection
+ثلاثة أطفال يرقصون و رجل ينظر إليهم,أبناء عائلة يلعبون بصبر وينتطرون,0,2.3,The children of a family are patiently playing and waiting,Three Asian kids are dancing and a man is looking
+لا يرتدي الكلب الأبيض أذني الرنة وليس بالقرب من كلب بني,الكلب الأبيض يرتدي أذني الرنة بالقرب من كلب بني,2,3.6,The white dog wearing reindeer ears is near a brown dog,The white dog is not wearing reindeer ears and isn't near a brown dog
+يتم قيادة السيارة من قبل رجل,امرأة تغمس الروبيان في الخليط,0,1.4,A woman is dipping a shrimp in batter,The car is being driven by a man
+لا يوجد شخص يقطع البطاطس,شخص يعزف على البيانو,0,1.1,A person is playing a piano,There is no person slicing a potato
+رجل يعزف على الغيتار,المرأةيعزف على الغيتار الكهربائي,0,3.5,The woman is playing an electric guitar,A man is playing a guitar that is acoustic
+يقف طائر أسود بمنقار أصفر في العشب الأخضر,يقف طائر أبيض بمنقار أصفر في العشب الأخضر,0,3.8,A white bird with a yellow beak is standing in the green grass,A black bird with a yellow beak is standing in the green grass
+المرأة تلتقط طفلاً كنغرًا وتحمله,المرأة تحمل كنغرًا صغيرًا وتحمله,1,4.4,The woman is taking up and holding a baby kangaroo,The woman is picking up and holding a baby kangaroo
+وقالت امرأة أنها قطعت البطاطا,الرجل يقطع الخضروات ,0,3.0,The man is slicing vegetables,A woman is cutting a potato
+اثنين من دببة الباندا يلعبون مع طفل,اثنين من دببة الباندا يستلقون مع طفل,0,3.5,Two baby pandas are sleeping,Two baby pandas are playing
+رجل يتحدث على الهاتف,رجل اتصل هاتفيا,1,4.3,A man is phoning,A man is talking on the phone
+هريرة تلعب بلعبة حبل أزرق,القط الصغير يشعر بالملل,0,2.6,A kitten is getting bored,A kitten is playing with a blue rope toy
+امرأة اللوحة وجه رجل,المرأة لا تضع المكياج على الرجل,0,3.2,The woman is not putting makeup on the man,A woman is painting a man's face
+يقوم رجلان بعمل مسرحية هزلية مع ملاكم أمام حشد من الناس,الشباب يرقصون أمام بعض الناس,0,2.9,Young men are dancing in front of some people,Two men are doing a funny skit with a boxer in front of a crowd of people
+طفل صغير يخرج لسانه للكاميرا ويراقب صبي آخر,فتاتان صغيرتان تنظران إلى الكاميرا وأخرى تخرج لسانه,0,3.2,Two young girl are looking up at the camera and one is sticking out his tongue,A little boy is sticking his tongue out for the camera and another boy is looking on
+لاعب كرة قدم يرتدي قميصًا أرجوانيًا يركض بالكرة للهبوط,لاعب كرة قدم يحمل رسميًا كرة قدم متدحرجة,0,2.9,A football player is carrying an official past a rolling football,A football player in a purple jersey is running with the ball for a touchdown
+صبي يصفع رجل بسيف البلاستيك,رجل وصبي الضرب بالسيف,0,3.5,A man is whacking a boy with a sword,A boy is spanking a man with a plastic sword
+مشجعة تجلس على ركبة رجل,بعض المشجعين يأخذون استراحة,0,2.9,Some cheerleaders are taking a break,A female cheerleader is sitting on the knee of a man
+طفل يمر بعالم جديد,صبي تحت مظلة يحتجزه والده الذي يرتدي معطفًا أزرق,0,1.5,A boy under an umbrella is being held by his father who is wearing a blue coat,A child is experiencing a new world
+رجل يتحدث,لا يوجد رجل يبصق,0,1.7,There is no man spitting,A man is talking
+بعض الناس يسيرون في الثلج في المناظر الطبيعية الثلجية الجميلة,يمشي أربعة أشخاص بصعوبة بصعوبة عبر الثلج الكثيف والشمس تغرب,0,3.3,Four people are difficultly walking with difficulty across thick snow and the sun is setting,Some people are treading through the snow of the beautiful snowy landscape
+ طفل  قطع العشب   بالمقص ,صبي  قطع العشب   بالمقص ,1,4.5,A boy is cutting grass with scissors,A kid is cutting grass with scissors
+ليس هناك رجل يتحدث على خشبة المسرح,رجل يتحدث على المنصة,0,3.4,A man is speaking on a podium,There is no man speaking on a stage
+فتاة في فرقة تعزف على آلة موسيقية,فتاة ترتدي الزي الرسمي تعزف على الفلوت بفرقة موسيقية,1,4.065,A girl in a uniform is playing the flute with a marching band,A girl in a band is playing an instrument
+يتم تقطيع التوفو بواسطة امرأة,يتم تقطيع بعض التوفو بواسطة امرأة واحدة,0,3.5,The person isn't dicing up an orange pepper,A cook is slicing some bell peppers
+يعزف صبي على الغيتار,يعزف صبي على الغيتار,1,4.5,The boy is playing a guitar,A kid is playing a guitar
+شخص ما لا يعزف على البيانو,شخص ما يعزف على البيانو,2,3.0,Someone is playing piano,Someone is not playing piano
+لا يوجد أطفال يلعبون على تمثال,طفلان يلعبان على تمثال,2,4.1,Two children are playing on a statue,There are no children playing on a statue
+امرأة قطعت الخضار,امرأة تشرح  باذنجان,1,4.1,An eggplant is being sliced by a woman,A woman is cutting a vegetable
+رجل يركب دراجة نارية,الرجال يلعبون كرة القدم,0,1.1,The men are playing soccer,A man is riding a motorbike
+الفتاة الصغيرة تركب دراجة في سباق,صبي صغير يرتدي خوذة يركب دراجة على الطريق,0,3.0,A young boy in a helmet is riding a bike on the road,The little girl is riding a bicycle in a race
+صبي يسير عبر جسر,صبي يسير بخوف عبر جسر,1,4.7,A boy is fearfully walking across a bridge,A boy is walking across a bridge
+صبي تركب الأمواج  تركب الموجة ,سيدة تركب الأمواج  تركب الموجة ,0,3.5,A lady is surfing and riding a wave,A boy is surfing and riding a wave
+رجل يسير خارجا,رجل يتحرك برشاقة,0,3.2,A man is moving gracefully,A man is walking outside
+يتم العزف على الفلوت الخشبي من قبل رجل,رجل يعزف على الفلوت الخشبي,1,5.0,A man is playing a wooden flute,A wooden flute is being played by a man
+الرجل يدق على الطبل,يتم دق الطبول من قبل الرجل,1,4.9,The drums are being played by the man,The man is playing the drums
+المرأة التي ترتدي زيًا أحمر تتكئ على جدار من الطوب وتعزف على آلة موسيقية,امرأة ترتدي فستان أحمر تعزف على آلة موسيقية,0,4.0,A woman in a red dress is playing an instrument,The woman in a red costume is leaning against a brick wall and playing an instrument
+امرأة قطعت بصلة,يتم تقطيع شرائح البصل بواسطة امرأة,1,4.9,An onion is being sliced by a woman,A woman is slicing an onion
+يلعب كلب  صغير على العشب الأخضر,يلعب كلب على العشب,1,4.7,"A dog, which is small, is playing tirelessly on the green grass","A dog, which is small, is playing on the green grass"
+رجل يغني ,رجل يرقص ,0,3.2,A man is dancing,A man is singing
+يتم غلي المكرونة في الماء من قبل امرأة,شخص يضع الشعرية في الماء,0,4.0,Someone is stirring noodles in the water,Noodles are being boiled in water by a woman
+شخص يرتدي قبعة متخلفة يجلس على الأرض,رجل يرتدي قبعة متخلفة يجلس على الأرض,1,4.6,A man with a backwards hat is sitting on the ground,A person with a backwards hat is sitting on the ground
+شخص ما قطع الطماطم,شخص ما قطع الطماطم,1,5.0,Somebody is cutting a tomato,Someone is cutting a tomato
+راكب الأمواج يركب موجة كبيرة,راكب الأمواج يركب موجة صغيرة,2,3.9,The surfer is riding a small wave,The surfer is riding a big wave
+رجلان يقاتلان بقبضتيهما في حلقة,الرجال يقاتلون بقبضاتهم في حلقة,1,4.8,The men are fighting with their fists in a ring,Two men are fist fighting in a ring
+امرأتان لا تلعبان الملاكمة,شابتان تتنافسان في ملاكمة,0,3.9,Two young women are not sparring in a kickboxing fight,Two women are sparring in a kickboxing match
+امرأة ترقص والرجل يلعب على لوحة المفاتيح,امرأة ترقص,0,3.1,A woman is staging a dance,A woman is dancing and a man is playing the keyboard
+المرأة قطعت الجمبري,يتم قطع الجمبري من قبل امرأة,0,4.0,A prawn is being cut by a woman,A woman is cutting shrimps
+رجل وصبي يركب زورقًا أصفر,رجل وطفل يتجولان في المياه الهادئة,0,4.4,A man and a child are kayaking through gentle waters,A yellow kayak is being ridden by a man and a young boy
+اثنين من القطط يقاتلون بعضهم البعض,وتلعب بعض القطط مع بعضها البعض,0,2.9,Some cats are playing with each other,Two cats are fighting each other
+امرأة على صخرة تقف وتنظر حولها,امرأة جالسة تغني أغنية وتعزف على الجيتار,0,4.2,The man is kicking a boxing trainer,A karate practitioner is kicking at another man who is wearing protective boxing gloves
+رجل يركل كرة القدم,رجل ركل كرة القدم,0,4.0,A man is punching a soccer ball,A man is kicking a soccer ball
+بعض الفتيات في سن المراهقة يقفون يزال أمام الكاميرا,بعض الفتيات في سن المراهقة والرقص للكاميرا,0,3.5,Some teenage girls are dancing for the camera,Some teenage girls are standing still in front of the camera
+السيدة تقطع اللحم,السيدة تأكل شرائح اللحم,0,3.4,The lady is eating slices of meat,The lady is slicing up the meat
+رجل يتحدث على خشبة المسرح,رجل ألقى كلمة على المنصة,0,4.1,A man is making a speech on a podium,A man is speaking on a stage
+المرأة تمحو الرسم على السبورة,الرجل محو الرسم على لوحة,0,3.7,The man is erasing the drawing on the board,The woman is erasing the drawing on the board
+ رجل قطع البصل,رجل يفتح الباب,0,1.2,A door is being opened by a man,A man is cutting an onion
+عدد قليل من الرجال في المنافسة يركضون في الخارج,رجل يطرح مؤخرة السباق,0,3.7,A man is bringing up the rear of the race,A few men in a competition are running outside
+الأطفال لا يرتدون سترات ويرشون المياه حولهم,أطفال يرتدون بلباس البحر ويرشون المياه حولهم,2,4.4,The kids are wearing bathing suits and water is splashing around,The kids are not wearing suits and water is splashing around
+رجل يركب دراجة هوائية,قرد يركب دراجة,0,2.6,A monkey is riding a bike,A man is riding a bicycle
+مجموعة من الناس يقفون,مجموعة من الناس يسيرون,0,3.9,A group of people are marching,A group of people are standing
+امرأة يركب دراجة نارية باتجاه المياه,امرأة يركب دراجة نارية المياه,0,3.815,A woman is riding a water scooter,A woman is riding a scooter towards the water
+امرأة تقوم بقطع الجزرة إلى شرائح,لم تقطع المرأة الجزر,2,4.1,There is no woman slicing a carrot,A woman is slicing a carrot
+وقال الرجل أنه ركب الخيل ,رجل يركب الخيل على الشاطئ,1,4.7,A man is riding a horse on the beach,A guy is riding a horse
+تعزف فتاة على  البيانو,ليس هناك فتاة  تعزف على البيانو,2,3.8,There is no girl playing the piano,A girl is playing the piano
+فتاة شقراء ترقص وراء معدات الصوت,فتاة بيضاء ترقص,0,3.3,A girl in white is dancing,The blond girl is dancing behind the sound equipment
+رجل يغوص في بركة,رجل يقفز في بركة,1,4.4,A man is jumping into a pool,A man is diving into a pool
+رجل يجلس على الأرض في غرفة ويعزف على الغيتار,الرجل يخطو نحو غرفة,0,2.5,The man is pacing around a room,A man is sitting on the floor in a room and strumming a guitar
+امرأة تضع مساحيق التجميل على جفنها,ليس هناك امرأة تضع مساحيق تجميل على عينيها,0,3.2,There is no woman penciling on eyeshadow,A woman is putting cosmetics on her eyelid
+يقف الرجل على جبل صخري وخلفيته غيوم رمادية,يقف الرجل على جبل صخري وتظهر غيوم رمادية في الخلفية,1,4.7,The man is standing on a rocky mountain and gray clouds are in the background,"The man is standing on a mountain, which is rocky, and gray clouds are in the background"
+امرأة ترتدي قميص ملون والكثير من المجوهرات,امرأة شابة بملابس الهندية والحناء على يدها,0,2.4,A young woman with Indian clothing and henna on her hand is going through paperwork,A woman is wearing a colorful shirt and a lot of jewelry
+يركب الصبي دراجة فوق سياج معدني,راكب الدراجة النارية يركب بعيدًا عن السياج,0,2.9,A biker is riding away from a fence,The boy is riding a bike on the top of a metal fence
+رجلين يتقاتلون,رجلان لا يتقاتلون,2,4.0,Two men are not fighting,Two men are fighting
+رجل لا يصب الزيت على الطماطم.,الرجل يضع بعض الزيت على الطماطم (البندورة),2,3.0,The man is pouring some oil on the tomatoes,A man isn't pouring oil on the tomatoes.
+امرأة تعزف على الفلوت ,امرأة تعزف على الناي,1,4.485,One woman is practicing with a flute,One woman is playing a flute
+فتاة مع حقيبة سوداء هي في قطار مزدحم,ليس هناك فتاة مع حقيبة سوداء في قطار مزدحم,2,3.7,There is no girl with a black bag on a crowded train,A girl with a black bag is on a crowded train
+كلب أسود يقترب من كلب ذهبي على شاطئ مغطى بالحصى,كلبان يلعبان على شاطئ مصنوع من الصخور,0,4.0,Two dogs are playing on a beach made of rocks,A black dog is approaching a golden dog on pebbly beach
+رجل واحد يقوم بإيقاف تشغيل الميكروويف,رجل واحد يشغل الميكروويف,0,1.1,A man is emptying a container made of plastic,A frog is being held carelessly by a man
+رجل يعزف على البيانو ,رجل يعزف على الغيتار تحت النوافذ,0,2.4,A man is playing a guitar under a windows,A man is playing a piano
+شخصين يلعبون الملاكمة و لا  أحد يشاهدهم,شابتان تتنافسان في ملاكمة,0,3.7,Two women are sparring in a kickboxing match,Two people are kickboxing and spectators are not watching
+كلب يقفز عالياً في الهواء في البلاد,قطة تقفز عالياً في الهواء في البلاد,0,3.335,A cat is jumping high into the air in the country,A dog is jumping high into the air in the country
+امرأة تقطع,امرأة تقوم بقطع الجزرة إلى شرائح,1,4.9,A woman is slicing a carrot,A woman is cutting a carrot
+امرأة تخيط  بآلة ,امرأة تستخدم آلة الخياطة,1,5.0,A woman is using a sewing machine,A woman is sewing with a machine
+طائر أبيض يهبط بسرعة في الماء,رافعة بيضاء كبيرة تحلق فوق الماء,0,2.9,A large white crane is flying far above the water,A white bird is landing swiftly in the water
+رجل قادم أسفل حبل,رجل يتسلق الحبل,0,4.3,A man is climbing a rope,A man is coming down a rope
+صبي يسير بخوف عبر جسر,رجل يسير ببطء عبر جسر الحبل,0,3.4,A man is walking slowly across a rope bridge,A boy is fearfully walking across a bridge
+مجموعة من عربات التزلج على الجليد تصطف في الشارع,لا تتدحرج عربات التزلج على الجليد في تشكيل أسفل التل,0,3.2,Rollerbladers are not rolling in formation down a hill,A group of rollerbladers is lining up on the street
+رجل يركب الحصان,رجل لا يركب الحصان ,0,3.8,The man is not riding a horse by a creek,A man is riding a horse
+الرجل يعزف على القيثارة,رجل يعزف على القيثارة,1,5.0,A man is playing a harp,The man is playing a harp
+امرأة تقطع ما يصل إلى الأخطبوط,الرجل قطع الأخطبوط المطبوخة,0,4.085,The man is cutting cooked octopus,A woman is chopping up an octopus
+رجل يقذف طفلاً في المسبح القريب من المحيط,الرجل يقذف طفلاً في المسبح القريب من المحيط,1,4.8,The man is tossing a kid into the swimming pool that is near the ocean,One man is tossing a kid into the swimming pool that is near the ocean
+كلبان يلعبان على شاطئ صخري,كلب أبيض يقترب من كلب ذهبي على شاطئ مغطى بالحصى,0,2.9,A white dog is approaching a golden dog on pebbly beach,Two dogs are playing on a rocky beach
+فتاة صغيرة في جناح السباحة تقفز على الشاطئ,فتاة صغيرة ترتدي البيكيني تقفز على الشاطئ,1,4.4,A young girl in a bikini is jumping on the beach,A young girl in swimming suite is jumping on the beach
+الرجل يضع الدجاجة في الوعاء,الرجل لا يضع الدجاج في الحاوية,2,3.3,The man is not putting chicken into the container,The man is putting chicken into the container
+شخص  يركب دراجة  أسفل تلة ترابية,يقود الدراجة  قرد,0,2.8,A bike is being ridden over a monkey,A person is riding a dirt bike down a dirt hill
+طفل بالداخل يشاهد برنامجًا عن بعض المتسلقين الصغار على جدار صخري.,طفل صغير يتسلق  على جدار تسلق الصخور التي هي في الداخل,0,3.2,A young child is climbing a rock climbing wall which is indoors,A child is indoors watching a program about some young climbers on a rock wall.
+راكبا دراجات بي إم إكس يقفزان على منحدرات ترابية أمام جسم مائي,راكبا دراجات بي إم إكس يقفزان على منحدرات ترابية أمام الماء,1,4.8,Two bmx bikers are jumping dirt ramps in front of the water,Two bmx bikers are jumping dirt ramps in front of a body of water
+شخص ما يطهي البامية في مقلاة,يأخذ شخص البامية من وعاء,0,4.1,Someone is taking the okra out of a pot,Someone is cooking okra in a pan
+يقفز كلب بني في الهواء,الكلب البني يقفز في الهواء,1,4.5,The brown dog is jumping in the air,A brown dog is jumping in the air
+مجموعة من خمسة شباب يسترخون في الداخل,مجموعة صغيرة من الناس واقفين واثنان يجلسان على الأريكة,0,3.8,A small group of people are standing and two are sitting on the sofa,A group of five young adults are lounging indoors
+لا يوجد رجل يأكل وعاء من الحبوب,رجل يأكل الحبوب,2,3.7,The man is eating cereal,There is no man eating a bowl of cereal
+الرجل يركب حصانًا عند مجرى مائي,الرجل يركب حصانًا بجانب جدول,1,4.4,The man is riding a horse by a creek,The man is riding a horse by a stream
+هناك رجل يعزف على البيانو,هذا الرجل لا يعزف على البيانو,2,3.6,The man isn't playing the piano,The man is playing a piano
+رجل يعزف على الجيتار,يتم العزف على الجيتار من قبل رجل,1,5.0,The guitar is being played by a man,A man is playing the guitar
+صبيان وتتكلم على الهاتف,امرأة تتحدث على الهاتف,0,3.1,A woman is talking on a telephone,Two boys are talking on the phone
+لا يوجد أولاد راكعون بجانب بعضهم البعض أمام كرة,راكع أربعة أولاد بجانب بعضهم البعض أمام كرة,2,4.3,Four boys are kneeling next to each other in front of a ball,There are no boys kneeling next to each other in front of a ball
+المرأة يستخدم مطرقة لكسر كتلة الخرسانة التي يتم على رجل آخر,رجل كسر لوح من الخرسانة مع مطرقة ثقيلة,0,2.7,A man is breaking a slab of concrete with a sledge hammer,The woman is using a sledgehammer to break a concrete block that is on another man
+كرة خضراء  تصطدم بحبة البطاطا,كرة خضراء كبيرة يطرق البطاطا,1,4.8,A large green ball is hitting a potato,A big green ball is knocking a potato
+خروف أسود يقف بالقرب ثلاثة كلاب البيضاء,الكلاب البيضاء ينظرون باستغراب إلى اللاما الأسود,0,3.0,The white dogs are looking curiously at the black llama,A black sheep is standing near three white dogs
+يجري الكلب ذو الفرو البني في المنطقة المعشبة,يلعب الكلب ذو المعطف البني في الهواء الطلق,0,3.8,The dog with the brown coat is playing outdoors,The furry brown dog is running through the grassy area
+رجل وضع قطع الزبدة في وعاء,رجل وضع قطع الزبدة في وعاء صغير,1,4.8,A man is chopping butter into a small container,A man is chopping butter into a container
+الرجل ذو الرداء الأزرق يقف لالتقاط صورة بجوار سيارة,الرجل ذو الرداء الأزرق يقف لالتقاط صورة بجوار سيارة,1,4.8,The man in blue is posing for a picture next to a vehicle,The man in blue is posing for a picture next to a car
+امرأة تتأرجح فوق بطانية ملقاة على شخص يقرأ كتابًا,المرأة تمشي الكلب,0,1.4,The woman is walking the dog,A woman is rocking over a blanket lying on someone reading a book
+ يمور معلقة على حبل, يمور معلقة على حبل,1,4.4,A lemur is hanging on a cord,A lemur is hanging on a rope
+يقود الرجل سيارة بيضاء,لا توجد سيارة بيضاء يقودها الرجل,0,1.1,The man is granting an interview,A person is driving the white car
+رجل يشرب عصير البرتقال ويمشي,رجل يشرب عصير البرتقال ويمشي في يوم مشمس,1,4.3,A man is drinking orange juice and walking on a sunny day,A man is drinking orange juice and walking
+بعض الناس يسيرون في الثلج في المناظر الطبيعية الثلجية الجميلة,يمشي أربعة أشخاص عبر الثلج الكثيف والشمس تغرب,0,3.9,Four people are walking across thick snow and the sun is setting,Some people are treading through the snow of the beautiful snowy landscape
+لا أحد يقف على مقعد دراجة نارية,متسابق الدراجات النارية واقفا على مقعد دراجة نارية بيضاء,2,3.8,A motorcycle rider is standing up on the seat of a white motorcycle,No motorcycle rider is standing up on the seat of a motorcycle
+شخص ما يقشر  الموز,شخص ما يقشر  الموز,1,4.9,Someone is peeling a banana,Someone is removing the peel of a banana
+يرتدي حارس هوكي الجليد قميص أصفر ويدافع عن المرمى,الهدف يحرسه لاعب هوكي يرتدي قميصا أصفر,1,4.9,The goal is being guarded by a hockey player in a yellow jersey,The ice hockey goalkeeper is wearing a yellow jersey and is defending the goal
+الرجل يعزف على الغيتار,الرجل يعزف بمهارة على الغيتار,1,4.5,The man is skillfully playing the guitar,The man is playing a guitar
+كلب بني فاتح يركض في الماء,كلب تان يرش في الماء على ضفة بركة,0,2.9,A tan dog is splashing in the water on the bank of a pond,A light brown dog is sprinting in the water
+حيوان ينبح على كرة,طفل يبتسم للكاميرا ويسبح تحت الماء,0,1.1,A child is smiling at the camera and swimming underwater,An animal is barking at a ball
+قطعة من الورق  مقصوصة,شخص ما قطع ورقة  بالمقص ,1,4.5,Someone is cutting some paper with scissors,The piece of paper is being cut
+رجل يتسلق الصخور وتظهر مدينة وخليج في الخلفية,امرأة تتسلق الصخور وتتوقف وتحسب الطريق,0,3.5,"A woman is rock climbing, pausing and calculating the route",A man is rock climbing and a city and a bay are in the background
+يجلس ثلاثة متنزهين على سفح الجبل وينظرون إلى المنظر بمنظار,ثلاثة رجال يجلسون على سفح الجبل وينظرون إلى المنظر بمنظار,1,4.4,Three men are sitting on a mountainside and looking at the view with a pair of binoculars,Three hikers are sitting on a mountainside and looking at the view with a pair of binoculars
+كلب أحمر يقفز ويلتقط كرة تنس في فمه,الفتاة الصغيرة تتأرجح والمرأة تقف في الخلف,0,1.2,"The girl, who is little, is swinging and the woman is standing behind",A red dog is jumping and catching a tennis ball in its mouth
+رجل يرقص ,لا أحد يرقص,2,4.4,There is no man dancing,A man is dancing
+قرد يخوض في مستنقع,قرد صغير يسير في النهر,0,3.9,A small monkey is walking in the river,A monkey is wading through a marsh
+ضابط يستمع إلى المجندين,ضابط يتحدث إلى المجندين,0,3.2,An officer is talking to the recruits,An officer is listening to the recruits
+يركب الصبي دراجة فوق سياج معدني,الصبي لا يركب دراجة فوق سياج حديدي,2,3.5,The boy is not riding a bike on the top of a metal fence,The boy is riding a bike on the top of a metal fence
+رجل يمسك بحيوان كبير بيد واحدة,رجل يتباهى بقرد صغير,0,2.9,A man is showing off a small monkey,A man is holding a big animal in one hand
+شاب على دراجة بي إم إكس يقفز من فوق هرم حجري,راكب دراجة يقفز على منحدر على شكل هرم,1,4.2,A bicyclist is jumping on a pyramid-shaped ramp,A young man on a bmx bicycle is jumping off a masonry pyramid
+شخص لا يلعب لوحة المفاتيح,شخص يلعب على لوحة المفاتيح,2,4.0,A person is playing a keyboard,A person is not playing a keyboard
+كلب أسود وبني يتطلع إلى حشرة,يركض كلب يرتدي معطفًا ملونًا عبر الفناء,0,2.2,A dog in a colored coat is running across the yard,A black and brown dog is eyeing an insect
+يلعب الصبي في الوحل,يلعب قط مع جهاز,0,1.5,A cat is playing with a device,The boy is playing in the mud
+لا يوجد رجل قطع الطماطم ,رجل يقوم بقطع الطماطم إلى شرائح,2,3.3,A man is slicing a tomato,There is no man slicing a tomato
+الأسماك غير متحركة,بعض الأسماك تسبح,0,3.1,Some fish are swimming,The fish are immobile
+رجل يرقص على السقف,مغنية مشهورة ترقص على السقف,0,4.1,A famous singer is dancing on the ceiling,A man is dancing on the ceiling
+لا ينطلق بعض سائقي الدراجات في الهواء على مسار بالقرب من الماء والأفق,اثنان من سائقي الدراجات النارية من طراز بي إم إكس يقفزون على منحدرات ترابية أمام جسم مائي,0,3.9,Two bmx bikers are jumping dirt ramps in front of a body of water,Some bikers are not getting airborne on a track near water and a skyline
+يقفز كلب رمادي نحو كلب أبيض وأسود في الماء,يوجد كلبان في الثلج والآخر يقفز عالياً,0,2.9,Two poodles are in the snow and one is jumping high,A grey dog is jumping toward a black and white dog in the water
+راكب الدراجة الهوائية لا يركب في أحد شوارع المدينة,راكب الدراجة الهوائية يركب في أحد شوارع المدينة,2,4.2,The bicyclist is riding on a city street,The bicyclist is not riding on a city street
+قرد  سحب ذيل الكلب,ويجري إغاظة كلب من قبل قرد في حديقة الحيوان,0,4.3,A dog is being teased by a monkey at the zoo,A monkey is pulling a dog's tail
+ينطلق بعض سائقي الدراجات في الهواء على مسار بالقرب من الماء والأفق,راكبا دراجات بي إم إكس يقفزان على منحدرات ترابية أمام الماء,1,4.1,Two bmx bikers are jumping dirt ramps in front of the water,Some bikers are getting airborne on a track near water and a skyline
+بعض الناس والمركبات في أحد الشوارع الشبه خالية,بعض الناس والمركبات في شارع مزدحم,2,4.2,Some people and vehicles are on a crowded street,Some people and vehicles are on a almost empty street
+رجل يصب الماء في فم كلب أبيض بمسدس رش,لا يوجد رجل يرش سوبر معتاد على الثمالة في فم كلب,0,2.9,There is no man spraying a super soaker into the mouth of a dog,A man is squirting water into the mouth of a white dog with a squirt gun
+الرجل يأكل الحبوب,قطة سوداء وبنية تتطلع إلى ذبابة,0,1.0,A black and brown cat is eyeing a fly,The man is eating cereal
+الصبي الضاحك يرتدي دبابة صفراء ويرتدي قميصًا,طفل صغير يرتدي قميصًا أصفر يضحك,0,3.5,A little boy is wearing a yellow tank top and is laughing,A laughing boy is in a yellow tank and is wearing a top
+يقف رجل بقبعة بيضاء وقميص بني خلف امرأة ترتدي الأحمر وينظر إلى الجانب,يقف رجل بقبعة بيضاء وقميص بني خلف امرأة ترتدي أحمر وينظر إلى اليسار,1,4.5,A man with a white hat and brown shirt is behind a woman in red and is looking to the left,A man with a white hat and brown shirt is behind a woman in red and is looking to the side
+الشخص لا يركب دراجة نارية على المسار الرملي,شخص  يركب دراجة نارية في الفعاليات المرتبطة موتوكروس,0,3.3,A person is riding a motorbike in the event related to motocross,The person isn't riding a motorbike on a sandy track
+فالطفل يستيقظ,فتاة تصحو من النوم,1,4.4,A girl is awakening,A child is waking up
+صبي يجلس في غرفة ويعزف على البيانو بجانب المصباح,صبي يكتب على لوحة المفاتيح,0,3.5,A boy is practicing the keyboard,A boy is sitting in a room and playing a piano by lamp light
+لا يوجد كلب بني وكلب أسود يلعبان في الرمال,كلب بني وكلب أسود يمرحان في الرمال,2,3.8,A brown dog and a black dog are playing in the sand,There is no brown dog and black dog playing in the sand
+شلال يتدفق بهدوء في بركة ضحلة,الناس يسيرون على الطريق بجانب شلال جميل,0,2.7,The people are walking on the road beside a beautiful waterfall,A waterfall is flowing calmly into a shallow pool
+خنزير غينيا يأكل جزرة,خنزير غينيا يأكل جزرة,1,5.0,A guinea pig is devouring a carrot,A guinea pig is eating a carrot
+امرأتان يرتدون الأبيض والأسود يجلسون على مقاعد البدلاء,شخصين يجلسون على مقعد في حديقة في يوم حار,0,3.6,Two people are sitting on a park bench on a hot day,Two women dressed in white and black are sitting on a bench
+شخص يقود دراجة نارية,رجل بدون خوذة يركب دراجة نارية زرقاء على الطريق,0,3.3,A motorcyclist without a helmet is waiting on a blue motorcycle near the road,A motorcyclist is riding a motorbike along a roadway
+الشخص  يطهو بعض المواد الغذائية,الشخص القلي بعض المواد الغذائية,1,4.3,A person is frying some food,A person is cooking some food
+كلب في الرمال التي تهب في الريح,لا يوجد كلب في الرمال التي تهب في الريح,2,4.1,No dog is in the sand that is blowing in the wind,A dog is in the sand that is blowing in the wind
+هناك شابة  تقفز على سيارة بتهور,هناك فتاة  تقفز على سيارة بتهور,1,4.4,The girl is recklessly jumping onto a car,One young lady is jumping on the car
+رجل يرتدي ملابس مغطاة بالطلاء ويجلس بالخارج في منطقة مزدحمة يكتب شيئًا,رجل بملابس مغطاة بالطلاء يجلس بالخارج في منطقة مزدحمة يكتب شيئًا,1,4.8,A man with paint covered clothes is sitting outside in a busy area writing something,A man is wearing clothes that are covered with paint and is sitting outside in a busy area writing something
+رجل قطع حبل  بالسيف,ليس هناك رجل يقطع حبلاً بالسيف,2,2.5,There is no man cutting a rope with a sword,A man is cutting a rope with a sword
+الفارس يركب دراجته في الثلج ويرتدي سترة حمراء,راكب دراجة يركب دراجة في غابة ثلجية ليلاً,0,3.8,A cyclist is biking in a snowy forest at night,The rider is biking in the snow and wearing a red jacket
+كلب أبيض صغير يركض في العشب,الكلب البني والأبيض مع المنديل البني والأسود يركض بسرعة كبيرة,0,2.9,A brown and white dog with a brown and black bandanna is running very fast,A small white dog is running in a lawn
+امرأة تغسل الفلفل كبير,امرأة تشرح  رأس ثوم,0,2.4,A woman is slicing a clove of garlic,A woman is washing a big pepper
+امرأة تضع على ماكياج,ليس هناك فتاة تضع ماكياج على وجهها,0,4.0,There is no girl applying makeup to her face,A woman is putting on makeup
+لا يوجد رجل قطع الطماطم ,رجل يقوم بقطع الطماطم إلى شرائح,2,3.3,A man is slicing a tomato,There is no man slicing a tomato
+رجل يصفع صبيا بسيف البلاستيك,صبي يضرب  رجل بسيف,0,3.3,A boy is whacking a man with a sword,A man is spanking a boy with a plastic sword
+طفلان يتسلقان شجرة,يقف طفلان  وشخص بالغ بجانب شجرة,0,3.0,Two children and an adult are standing next to a tree limb,Two children are climbing a tree
+رجل يكتب على لوحة المفاتيح,ليس هناك رجل في يكتب على لوحة المفاتيح,2,3.7,There is no man playing a keyboard,A man is playing a keyboard
+قط صغير يستلقي على السرير,كلب صغير يستلقي على السرير,0,2.9,A small dog is lying on the bed,A small cat is lying on a bed
+يتم قطع البصل من قبل رجل,يتم قطع أي البصل من قبل رجل,2,3.1,No onion is being cut by a man,An onion is being cut by a man
+يلتقط الرجل صورة لنفسه وشاب آخر,الرجل يلتقط صورة لنفسه ولرجل آخر,1,4.4,The man is taking a picture of himself and another guy,A picture of himself and another guy is being taken by the man
+رجل يعزف على الجيتار,رجل يغني ويعزف على الجيتار,1,4.2,A man is singing and playing a guitar,A man is playing a guitar
+رجل يقرأ بريد الكتروني,يتم قراءة البريد الإلكتروني من قبل رجل,1,4.8,An email is being read by a man,A man is reading an email
+الرجل يعزف بتركيز على الغيتار,تعزف فتاة على الغيتار,0,3.7,A girl is playing the guitar,The man is intensely playing the guitar
+غزال يقفز فوق سياج الإعصار,الغزلان تقفز من فوق السياج القصيرة,0,3.8,The deer is jumping over the low fence,A deer is jumping over a cyclone fence
+طفل يرش في بركة للأطفال بينما يلعب الأطفال الآخرون في الخلفية,طفل يرش في حمام سباحة للأطفال بينما يلعب أطفال آخرون في الخلفية,1,4.9,A child is splashing in a pool for children and other kids are playing in the background,A child is splashing in a pool for children and other children are playing in the background
+لا يوجد وحيد القرن الرعي على العشب,الرجل تلعب لعبة على العشب,0,1.7,The man is playing a game on the grass,There is no rhino grazing on the grass
+ رجل مزق ورقة, رجل مزق ورقة,1,4.4,A man is cutting a note,A man is cutting a paper
+رجل يلعب كرة القدم,رجل يعزف الموسيقى بالناي,0,1.1,A man is making music with a flute,A man is playing soccer
+ثلاث نساء يركضن في قرية,تجلس ثلاث نساء في قرية,0,3.6,Three women are sitting in a village,Three women are running in a village
