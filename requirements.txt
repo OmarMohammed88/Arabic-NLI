@@ -5,3 +5,4 @@ pandas==1.3.4
 torch==2.0.1
 transformers
 tqdm
+accelerate

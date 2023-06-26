@@ -1,7 +1,8 @@
 from datasets import load_dataset, load_metric, Dataset
+from loss_function import FocalLoss
 import pandas as pd
-from train import acc_metric,f1_metric,precision_metric,recall_metric
 import numpy as np
+from transformers import Trainer, TrainingArguments
 
 
 def upload_dataset(trian_file,valid_file,test_file):
@@ -19,6 +20,12 @@ def upload_dataset(trian_file,valid_file,test_file):
   return dataset
 
 
+acc_metric = load_metric('accuracy')
+f1_metric = load_metric('f1')
+precision_metric = load_metric('precision')
+recall_metric = load_metric('recall')
+
+
 def compute_metrics(eval_pred):
 
   predictions, labels = eval_pred
@@ -30,11 +37,6 @@ def compute_metrics(eval_pred):
   recall = recall_metric.compute(predictions=predictions, references=labels,average='macro')
 
   return {"accuracy":accuracy['accuracy'],"f1":f1['f1'],"precision":precision['precision'],"recall":recall['recall']}
-
-
-def preprocess_function(examples):
-    return tokenizer(examples['t'], examples['h'], truncation=True, padding="max_length", max_length=args.max_length)
-
 
 
 
